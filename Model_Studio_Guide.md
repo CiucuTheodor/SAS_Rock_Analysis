@@ -45,3 +45,17 @@ We need to check the remaining input variables and transform them where necessar
     * **Feature Extraction:** Drag this over the `Transformations` node. Select the extraction method as **PCA (Principal component analysis)**.
 3. Now, drag the same supervised learning models (Linear Regression, LASSO, SVM, Forest) over the `Feature Extraction` node!
 4. Run the pipeline and see if PCA and median imputation improved your predictive power for rock song popularity!
+
+## 6. Pipeline 3: Clustering & Advanced Machine Learning (The "Super Model")
+If you want to really impress your professor, create a third pipeline that uses Unsupervised Learning and Ensembling!
+
+1. Click the **Plus sign (+)** to create **"Third flow"**.
+2. **Clustering (Unsupervised Learning):** Drag a `Clustering` node over the `Data` node. This will group similar songs together (e.g., creating a "High Energy Rock" profile and an "Acoustic Ballad" profile) without knowing their popularity.
+3. **Variable Selection:** Drag a `Variable Selection` node over the `Clustering` node. This will automatically filter out any audio metrics that are just noise.
+4. **Advanced Models:** Drag the following nodes over the `Variable Selection` node:
+    * `Neural Network`
+    * `Gradient Boosting`
+    * `Decision Tree`
+5. **Ensemble Node:** Under the *Postprocessing* menu, drag an `Ensemble` node. Connect the output of the Neural Network, Gradient Boosting, and Decision Tree to this single Ensemble node. 
+6. *What this does:* The Ensemble node will average the predictions of all three advanced models to create one ultimate "Super Model" that is usually much more accurate than any single model alone!
+7. **Run the pipeline** and check the Model Comparison tab to see if your Ensemble Super Model beat the LASSO and Random Forest from your first pipeline!
