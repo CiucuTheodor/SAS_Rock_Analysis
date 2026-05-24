@@ -29,10 +29,12 @@ We want to be able to filter the dashboard by specific bands and track types.
 ## 3. Creating Visualizations
 Now we will build the actual charts to visualize rock trends!
 
-1. **Time Series Plot (Evolution of Rock):**
-    * From the **Objects** pane under **Graphs**, drag a **Time series plot** below your controls.
+1. **Line Chart (Evolution of Rock):**
+    * *Note:* The lab used a "Time Series Plot", but that requires a strict Date format. Since our `Year` is just a 4-digit number, it's much easier to use a Line Chart!
+    * First, right-click **`Year`** in the Data pane and change it to a **Category** (just like you did for Mode).
+    * From the **Objects** pane under **Graphs**, drag a **Line chart** below your controls.
     * Under **Assign Data**:
-        * Set **Time axis** to **`Year`**.
+        * Set **Category** to **`Year`**.
         * Set **Measure** to **`Popularity`** (change the aggregation to Average instead of Sum if possible).
     * This graph will now show you how the popularity of tracks trends over the decades!
 2. **Linear Regression (Predicting Popularity):**
