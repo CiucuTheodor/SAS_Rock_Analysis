@@ -8,8 +8,9 @@ This guide adapts your original Visual Analytics lab specifically for your **Cla
 3. On the left side, click the **Data** pane icon, then click **Add data**.
 4. Select your `ClassicAltRock.csv` dataset.
 5. *Understanding the Data:*
-    * **Categories (Discrete):** Artist, Album, Track, Mode, Time_Signature
-    * **Measures (Continuous):** Popularity, Duration, Danceability, Energy, Acousticness, Tempo, Year
+    * **Categories:** Artist, Album, Track
+    * **Measures:** Popularity, Duration, Danceability, Energy, Acousticness, Tempo, Year, Mode, Time_Signature, Key, Loudness, etc.
+    * *Pro-Tip:* SAS imports numeric flags like `Mode`, `Time_Signature`, and `Year` as Measures by default. To use them in controls (like Drop-downs), right-click on them in the Data pane and select **Category** to convert them!
 
 ## 2. Interactive Controls (Drop-downs and Buttons)
 We want to be able to filter the dashboard by specific bands and track types.
