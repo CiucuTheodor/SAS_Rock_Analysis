@@ -1,0 +1,782 @@
+Track,Artist,Album,Year,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity
+Because the Night - Live Unplugged,"10,000 Maniacs",MTV Unplugged (Live), 1993,223373,4,0.408,0.79,11,-8.138,0,0.103,0.26,0.00027,0.765,0.347,122.624,56
+Candy Everybody Wants,"10,000 Maniacs",Our Time in Eden, 1992,185960,4,0.622,0.876,10,-6.31,1,0.0305,0.0193,0.00684,0.0987,0.867,104.97,43
+Hey Jack Kerouac,"10,000 Maniacs",In My Tribe, 1987,206413,4,0.616,0.511,6,-15.894,1,0.0279,0.0384,0,0.15,0.604,132.015,40
+Like the Weather,"10,000 Maniacs",In My Tribe, 1987,236653,4,0.77,0.459,1,-17.453,1,0.0416,0.112,0.00343,0.145,0.963,133.351,43
+More Than This,"10,000 Maniacs",Love Among The Ruins, 1992,245573,4,0.623,0.773,6,-8.8,1,0.0271,0.0155,0.00573,0.0917,0.807,124.644,46
+These Are Days,"10,000 Maniacs",Our Time in Eden, 1992,219893,4,0.611,0.833,3,-7.554,1,0.0351,0.0218,0.000204,0.0923,0.793,108.498,52
+Trouble Me,"10,000 Maniacs",Blind Man's Zoo, 1989,193560,4,0.861,0.385,2,-10.057,1,0.0341,0.154,0,0.123,0.494,117.913,47
+Verdi Cries,"10,000 Maniacs",In My Tribe, 1992,260253,4,0.367,0.0256,3,-25.309,1,0.0421,0.917,0.0000739,0.0843,0.178,106.872,34
+What's the Matter Here?,"10,000 Maniacs","Campfire Songs: The Popular, Obscure and Unknown Recordings of 10,000 Maniacs", 1987,291173,4,0.593,0.816,9,-7.293,1,0.041,0.00449,0.0000317,0.0896,0.519,99.978,12
+Be Like That,3 Doors Down,The Better Life, 2000,265906,4,0.487,0.702,7,-6.043,1,0.0238,0.00528,0.00000497,0.129,0.306,95.982,61
+Duck And Run,3 Doors Down,The Better Life, 2000,230600,4,0.524,0.919,4,-5.505,0,0.0436,0.0149,0.0000705,0.131,0.848,87.931,48
+Here Without You,3 Doors Down,Away From The Sun, 2003,238733,4,0.557,0.533,10,-6.817,0,0.0252,0.0492,0,0.205,0.233,143.994,76
+It's Not My Time,3 Doors Down,3 Doors Down, 2008,241960,4,0.532,0.935,0,-4.798,1,0.0619,0.00133,0.00000837,0.106,0.309,128.025,63
+Kryptonite,3 Doors Down,The Better Life, 2000,233933,4,0.545,0.865,11,-5.708,0,0.0286,0.00664,0.000011,0.168,0.543,99.005,80
+Let Me Go,3 Doors Down,The Greatest Hits, 2008,243053,4,0.48,0.863,1,-4.914,0,0.0385,0.0181,0,0.111,0.491,91.972,55
+Loser,3 Doors Down,The Better Life, 2000,264800,4,0.493,0.88,6,-6.424,0,0.0693,0.0108,0.0000266,0.226,0.389,147.913,61
+One Light,3 Doors Down,The Greatest Hits, 2000,176346,4,0.372,0.976,11,-3.67,1,0.0625,0.00117,0.00326,0.0597,0.433,170.087,38
+When I'm Gone,3 Doors Down,Away From The Sun, 2005,260333,4,0.53,0.768,7,-5.611,1,0.0284,0.00385,0,0.103,0.374,148.095,72
+Angry Chair (2022 Remaster),Alice In Chains,Dirt (2022 Remaster), 1992,287800,4,0.329,0.943,8,-5.742,1,0.0913,0.0406,0,0.0548,0.157,107.422,53
+Down In A Hole (2022 Remaster),Alice In Chains,Dirt (2022 Remaster), 1992,338226,4,0.356,0.818,6,-5.343,1,0.0335,0.0122,0.000118,0.123,0.389,97.528,66
+Heaven Beside You,Alice In Chains,Alice In Chains, 1996,327893,4,0.551,0.724,10,-7.09,0,0.032,0.00451,0.000167,0.116,0.559,111.243,61
+I Stay Away,Alice In Chains,Jar Of Flies, 1994,254400,4,0.174,0.781,6,-7.066,1,0.0406,0.0452,0.00346,0.0822,0.276,81.37,62
+Man in the Box,Alice In Chains,Facelift, 1990,285200,4,0.355,0.791,8,-7.565,1,0.0453,0.00045,0,0.0969,0.758,106.392,77
+No Excuses,Alice In Chains,Jar Of Flies, 1994,255573,4,0.527,0.838,3,-6.013,1,0.0323,0.0206,0.00062,0.07,0.721,117.454,64
+Nutshell,Alice In Chains,Jar Of Flies, 1994,259200,3,0.384,0.561,3,-10.059,0,0.0296,0.373,0.253,0.0775,0.159,136.136,72
+Rooster (2022 Remaster),Alice In Chains,Dirt (2022 Remaster), 1992,374333,3,0.263,0.562,3,-7.858,1,0.0273,0.0289,0.00118,0.12,0.213,146.08,72
+Them Bones (2022 Remaster),Alice In Chains,Dirt (2022 Remaster), 1992,149466,1,0.16,0.954,9,-5.179,1,0.0685,0.023,0.00000401,0.372,0.336,165.223,70
+Would? (2022 Remaster),Alice In Chains,Dirt (2022 Remaster), 1992,206773,4,0.297,0.842,6,-7.457,1,0.0488,0.000286,0.0000091,0.0848,0.586,100.127,75
+Brass Monkey,Beastie Boys,Licensed To Ill, 1986,157440,4,0.914,0.586,6,-8.435,0,0.33,0.00203,0.00000158,0.0992,0.655,116.371,66
+Fight For Your Right,Beastie Boys,Licensed To Ill, 1986,208653,5,0.503,0.858,8,-6.296,1,0.0657,0.00757,0.00234,0.0803,0.419,133.615,69
+Hey Ladies,Beastie Boys,Paul's Boutique (20th Anniversary Edition / Remastered), 1989,227773,4,0.949,0.728,1,-10.653,1,0.211,0.286,0,0.0465,0.795,101.718,51
+Intergalactic,Beastie Boys,Solid Gold Hits, 1998,210106,4,0.731,0.881,2,-6.504,1,0.281,0.0105,0.0000631,0.0628,0.361,105.971,52
+No Sleep Till Brooklyn,Beastie Boys,Licensed To Ill, 1986,246933,4,0.712,0.691,8,-8.157,1,0.128,0.122,0,0.0538,0.742,97.022,70
+Paul Revere,Beastie Boys,Licensed To Ill, 1986,220840,4,0.883,0.553,6,-13.232,0,0.944,0.0161,0,0.228,0.578,91.753,57
+Sabotage,Beastie Boys,Ill Communication, 1994,178440,4,0.324,0.938,6,-7.332,0,0.102,0.032,0.0321,0.0961,0.543,168.131,74
+Shake Your Rump,Beastie Boys,Paul's Boutique (20th Anniversary Edition / Remastered), 1989,198253,4,0.888,0.699,1,-10.425,1,0.164,0.0159,0.000306,0.111,0.697,103.066,56
+Sure Shot,Beastie Boys,Ill Communication, 1994,199666,4,0.692,0.799,1,-7.924,1,0.164,0.388,0,0.301,0.549,97.978,58
+Devils Haircut,Beck,Odelay, 1996,195440,4,0.684,0.771,7,-4.734,1,0.0283,0.133,0.00112,0.169,0.797,123.22,53
+E-Pro,Beck,Guero, 2005,202360,4,0.624,0.959,11,-6.253,0,0.0769,0.00133,0.171,0.101,0.69,95.794,57
+Gamma Ray,Beck,Modern Guilt, 2005,176920,4,0.603,0.909,11,-4.213,0,0.0385,0.109,0.249,0.329,0.7,168.116,62
+Hell Yes,Beck,Guero, 1999,197906,4,0.794,0.72,8,-7.4,1,0.35,0.0818,0.0143,0.0846,0.781,193.958,35
+Jack-Ass,Beck,Odelay, 1996,252280,4,0.714,0.555,2,-6.664,1,0.0287,0.163,0,0.0942,0.831,106.516,35
+Loser,Beck,Mellow Gold, 1994,235000,4,0.654,0.611,2,-10.45,1,0.119,0.0337,0.000178,0.405,0.786,85.387,70
+Sexx Laws,Beck,Midnite Vultures, 1999,219240,4,0.646,0.914,4,-4.071,1,0.0448,0.015,0.0000132,0.102,0.849,134.035,45
+The New Pollution,Beck,Odelay, 1996,219986,4,0.671,0.769,1,-6.529,1,0.0268,0.0287,0.00988,0.32,0.89,131.788,43
+Where It's At,Beck,Odelay (Deluxe Edition), 1996,330946,4,0.68,0.671,2,-7.142,1,0.0536,0.169,0.0286,0.076,0.532,96.941,43
+Change,Blind Melon,Blind Melon, 1995,221866,4,0.433,0.46,2,-10.441,1,0.0343,0.606,0.0000436,0.175,0.536,77.525,60
+No Rain,Blind Melon,Blind Melon, 1992,217106,4,0.389,0.476,9,-9.342,1,0.0316,0.619,0.0000509,0.255,0.566,148.117,73
+Adam's Song,blink-182,Enema Of The State, 1999,249626,4,0.52,0.775,0,-5.803,1,0.0348,0.034,0,0.364,0.383,136.02,73
+All The Small Things,blink-182,Enema Of The State, 1999,167066,4,0.434,0.897,0,-4.918,1,0.0488,0.0103,0,0.612,0.685,148.708,83
+Don't Leave Me,blink-182,Enema Of The State, 2001,143573,4,0.338,0.94,9,-7.094,1,0.0906,0.00862,0.0000045,0.304,0.245,145.538,55
+Feeling This,blink-182,blink-182, 2003,172645,4,0.411,0.962,4,-5.952,1,0.0917,0.103,0,0.529,0.622,173.143,70
+First Date,blink-182,Take Off Your Pants And Jacket, 2003,171533,4,0.579,0.928,0,-4.344,1,0.0411,0.000715,0,0.18,0.882,95.594,74
+I Miss You,blink-182,blink-182, 2004,227240,4,0.655,0.781,11,-6.547,1,0.034,0.00103,0.00000533,0.0867,0.584,110.024,76
+Man Overboard,blink-182,"The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]", 2000,166733,4,0.218,0.921,7,-4.414,1,0.0602,0.00133,0.00000766,0.0777,0.612,196.291,60
+Stay Together For The Kids,blink-182,Take Off Your Pants And Jacket, 2001,239333,4,0.52,0.78,2,-4.944,1,0.0356,0.00165,0.0000216,0.156,0.166,145.12,65
+The Rock Show,blink-182,Take Off Your Pants And Jacket, 2001,171600,4,0.409,0.959,9,-4.563,1,0.0869,0.000324,0,0.0766,0.83,193.144,69
+What's My Age Again?,blink-182,Enema Of The State, 1999,148360,4,0.391,0.951,6,-7.419,1,0.0688,0.012,0.000446,0.0878,0.468,157.663,80
+Beetlebum,Blur,Blur: The Best Of, 1997,305146,4,0.487,0.648,0,-5.14,1,0.0278,0.0351,0.000201,0.266,0.704,89.573,46
+Coffee & TV,Blur,13, 1999,358773,4,0.743,0.742,2,-10.117,1,0.0367,0.051,0.234,0.0987,0.706,121.604,62
+Country House,Blur,Blur: The Best Of, 1995,237733,4,0.341,0.895,9,-6.66,1,0.076,0.147,0,0.0741,0.677,174.987,51
+End of a Century - 2012 Remaster,Blur,Parklife, 1994,165840,4,0.446,0.686,7,-7.348,1,0.0303,0.211,0,0.205,0.493,80.572,46
+For Tomorrow - 2012 Remaster,Blur,Modern Life Is Rubbish (Special Edition), 1993,261240,4,0.631,0.84,2,-6.025,1,0.0285,0.0143,0,0.0712,0.653,95.849,43
+Girls & Boys,Blur,Blur: The Best Of, 1994,259385,4,0.693,0.875,7,-8.354,0,0.0315,0.00986,0,0.0601,0.899,120.048,68
+Parklife,Blur,Blur: The Best Of, 1994,187040,4,0.632,0.877,4,-6.905,1,0.0606,0.154,0,0.328,0.749,138.391,56
+Song 2,Blur,Blur: The Best Of, 1997,121880,4,0.658,0.709,8,-6.736,1,0.0904,0.00188,0.00447,0.0657,0.855,129.701,67
+Tender,Blur,13, 1999,461946,4,0.587,0.566,9,-9.932,1,0.0276,0.469,0,0.0644,0.528,76.055,58
+This Is a Low - 2012 Remaster,Blur,Parklife (Special Edition), 1994,316906,4,0.271,0.5,9,-8.661,1,0.0325,0.211,0.00156,0.111,0.32,170.06,39
+Comfort Eagle,CAKE,Comfort Eagle, 2001,220202,4,0.735,0.692,11,-9.671,1,0.0582,0.0932,0,0.217,0.894,120.99,53
+Frank Sinatra,CAKE,Fashion Nugget, 1996,241026,4,0.675,0.511,7,-9.208,1,0.0415,0.175,0.0261,0.183,0.569,114.201,51
+I Will Survive,CAKE,Fashion Nugget, 1996,310333,4,0.501,0.689,4,-7.952,0,0.0318,0.306,0.000169,0.133,0.873,95.758,61
+Jolene,CAKE,Motorcade of Generosity, 1996,319200,4,0.498,0.576,8,-9.853,0,0.0411,0.305,0.0000173,0.544,0.847,94.232,40
+Never There,CAKE,Prolonging the Magic, 1998,164266,4,0.761,0.735,9,-8.171,0,0.043,0.0426,0.0838,0.0917,0.592,125.815,61
+Sheep Go To Heaven,CAKE,Prolonging the Magic, 2001,228093,4,0.639,0.679,4,-8.867,0,0.0401,0.0182,0.0000108,0.117,0.784,102.592,48
+Short Skirt / Long Jacket,CAKE,Comfort Eagle, 1996,204128,4,0.771,0.809,2,-10.029,1,0.0461,0.003,0.0223,0.0252,0.886,120.038,65
+Stickshifts and Safetybelts,CAKE,Fashion Nugget, 1996,128653,4,0.659,0.682,1,-9.668,0,0.137,0.416,0,0.314,0.913,141.556,44
+The Distance,CAKE,Fashion Nugget, 1996,179600,4,0.457,0.752,11,-8.121,0,0.09,0.00959,0.00136,0.0573,0.897,183.578,68
+Wheels,CAKE,Pressure Chief, 2001,198200,4,0.696,0.476,4,-7.955,0,0.0373,0.128,0,0.121,0.963,161.311,45
+A Long December,Counting Crows,Recovering The Satellites, 1996,295066,4,0.388,0.579,5,-6.983,1,0.0286,0.472,0.00055,0.219,0.381,70.662,58
+Big Yellow Taxi,Counting Crows,Hard Candy, 2002,225573,4,0.678,0.866,1,-4.341,1,0.048,0.00295,0,0.16,0.842,88.041,64
+Mr. Jones,Counting Crows,August And Everything After, 1993,272293,4,0.578,0.817,0,-6.541,1,0.0363,0.183,0.00000285,0.285,0.734,141.621,78
+Round Here,Counting Crows,August And Everything After, 1993,331400,4,0.313,0.477,7,-9.37,1,0.0342,0.143,0.0000731,0.0814,0.186,94.192,60
+Androgynous,Crash Test Dummies,The Ghosts That Haunt Me, 1992,156613,4,0.5,0.209,10,-16.07,1,0.0468,0.424,0,0.101,0.67,115.884,22
+He Liked To Feel It,Crash Test Dummies,A Worm's Life, 1993,235306,4,0.758,0.575,11,-7.354,0,0.0316,0.08,0.085,0.0864,0.698,112.992,20
+In The Days Of The Caveman,Crash Test Dummies,God Shuffled His Feet, 1993,220493,4,0.655,0.85,11,-7.695,1,0.0317,0.079,0.000864,0.329,0.642,122.95,37
+Keep A Lid On Things,Crash Test Dummies,Give Yourself A Hand, 1992,165600,4,0.568,0.726,9,-9.01,1,0.185,0.0614,0.000174,0.151,0.744,166.409,29
+Mmm Mmm Mmm Mmm,Crash Test Dummies,God Shuffled His Feet, 1993,235173,4,0.58,0.575,3,-7.72,1,0.0231,0.25,0.0000183,0.0813,0.37,92.934,64
+Superman's Song,Crash Test Dummies,The Ghosts That Haunt Me, 1991,271600,4,0.406,0.124,10,-19.825,1,0.0342,0.613,0.00000108,0.108,0.316,168.4,42
+Swimming In Your Ocean,Crash Test Dummies,God Shuffled His Feet, 1996,229066,4,0.613,0.795,0,-7.064,1,0.028,0.0986,0.0683,0.0809,0.643,93.873,37
+The Ballad Of Peter Pumpkinhead (feat. Ellen Reid),Crash Test Dummies,The Best Of Crash Test Dummies, 1996,224373,4,0.498,0.934,2,-5.323,1,0.103,0.0314,0.0000317,0.226,0.531,128.017,33
+The Unforgiven Ones,Crash Test Dummies,Songs of the Unforgiven, 1996,174026,4,0.457,0.482,9,-8.495,0,0.0287,0.931,0.015,0.117,0.327,114.172,25
+Crash into Me,Dave Matthews Band,Crash, 1996,316466,4,0.541,0.677,4,-10.764,1,0.0373,0.122,0.0191,0.0938,0.555,101.1,65
+The Space Between,Dave Matthews Band,Everyday, 2001,242000,4,0.406,0.73,9,-6.278,1,0.0315,0.0471,0,0.229,0.207,170.032,56
+Bleed for Me,Dead Kennedys,"Plastic Surgery Disasters/In God We Trust, Inc.", 1985,204916,4,0.289,0.962,9,-5.647,1,0.129,0.000194,0.0000777,0.0946,0.118,102.594,30
+California Uber Alles,Dead Kennedys,Give Me Convenience or Give Me Death, 1980,207040,3,0.317,0.885,8,-4.768,1,0.144,0.176,0.000249,0.221,0.704,111.366,54
+Chemical Warfare,Dead Kennedys,Fresh Fruit for Rotting Vegetables, 1985,178560,4,0.302,0.972,2,-3.041,1,0.179,0.674,0.0227,0.288,0.52,119.561,31
+Holiday in Cambodia,Dead Kennedys,Give Me Convenience or Give Me Death, 1980,224866,4,0.133,0.927,7,-5.371,1,0.0741,0.00344,0.00044,0.0915,0.5,197.708,53
+Kill the Poor,Dead Kennedys,Fresh Fruit for Rotting Vegetables, 1980,187360,4,0.27,0.973,2,-3.219,1,0.0725,0.212,0.00204,0.346,0.443,105.292,40
+MTV-Get Off the Air,Dead Kennedys,Frankenchrist, 1985,217386,4,0.35,0.839,6,-6.186,1,0.216,0.0414,0,0.0868,0.655,145.385,34
+Nazi Punks Fuck Off,Dead Kennedys,"Plastic Surgery Disasters/In God We Trust, Inc.", 1981,63390,3,0.397,0.923,10,-4.029,0,0.201,0.00132,0,0.261,0.676,112.666,49
+Police Truck,Dead Kennedys,Give Me Convenience or Give Me Death, 1980,144973,4,0.207,0.967,4,-5.381,1,0.0982,0.0627,0.0000632,0.504,0.598,202.423,53
+Too Drunk to Fuck,Dead Kennedys,Give Me Convenience or Give Me Death, 1981,160653,4,0.441,0.966,4,-4.876,0,0.0503,0.000548,0.000829,0.415,0.586,103.327,48
+Back to School (Mini Maggit),Deftones,White Pony, 2003,237360,4,0.3,0.986,8,-3.022,1,0.107,0.000386,0.000136,0.0924,0.256,85.117,61
+Be Quiet and Drive (Far Away),Deftones,Around the Fur, 1997,299866,4,0.206,0.965,1,-5.116,1,0.079,9.91E-06,0.827,0.367,0.168,92.615,76
+Change (In the House of Flies),Deftones,White Pony, 2000,299533,4,0.269,0.853,7,-4.647,0,0.0854,0.000249,0.000246,0.118,0.179,141.581,78
+Diamond Eyes,Deftones,Diamond Eyes (Deluxe), 2010,188266,3,0.331,0.845,8,-4.876,1,0.0551,0.000109,0.000212,0.0758,0.468,153.484,54
+Digital Bath,Deftones,White Pony, 2000,255373,4,0.338,0.859,4,-4.938,0,0.0824,0.00122,0.211,0.0936,0.504,92.966,68
+Engine No. 9,Deftones,Adrenaline, 1997,204880,4,0.358,0.981,2,-5.13,1,0.178,9.3E-05,0.000193,0.386,0.382,93.744,64
+My Own Summer (Shove It),Deftones,Around the Fur, 1997,214760,4,0.443,0.781,1,-4.277,1,0.0377,1.33E-05,0.205,0.166,0.372,71.841,77
+Passenger,Deftones,White Pony, 2000,368666,4,0.345,0.797,0,-6.152,1,0.0551,0.00188,0.0668,0.145,0.223,117.987,66
+Swerve City,Deftones,Koi No Yokan, 2012,164986,4,0.457,0.964,10,-2.963,1,0.0656,0.0001,0.00811,0.67,0.372,111.972,62
+Enjoy the Silence,Depeche Mode,The Singles 86-98, 1990,255133,4,0.663,0.838,0,-5.744,0,0.0286,0.2,0.000177,0.0782,0.752,112.788,73
+I Feel You,Depeche Mode,Songs of Faith and Devotion (Deluxe), 1993,275413,3,0.44,0.905,2,-8.152,1,0.0888,0.02,0.0205,0.45,0.156,122.943,54
+Just Can't Get Enough,Depeche Mode,Speak and Spell (Deluxe), 1981,220893,4,0.766,0.772,0,-9.362,1,0.0353,0.403,0.0584,0.183,0.919,128.168,76
+Master and Servant,Depeche Mode,Some Great Reward (Deluxe), 1984,252866,4,0.62,0.916,10,-8.306,0,0.0515,0.0151,0.00228,0.0633,0.799,127.778,48
+Never Let Me Down Again,Depeche Mode,The Singles 86-98, 1987,260493,4,0.577,0.933,2,-4.173,0,0.0312,0.281,0.0346,0.124,0.767,106.112,59
+People Are People,Depeche Mode,Some Great Reward (Deluxe), 1984,231960,4,0.681,0.829,9,-7.305,0,0.0626,0.0795,0.00000209,0.327,0.814,119.975,61
+Personal Jesus,Depeche Mode,Violator (Deluxe), 1989,294773,4,0.682,0.742,11,-7.595,1,0.0492,0.135,0.209,0.0979,0.356,130.033,63
+Policy of Truth,Depeche Mode,Violator (Deluxe), 1990,293986,4,0.686,0.644,8,-7.286,1,0.0276,0.0121,0.203,0.126,0.372,114.203,65
+Strangelove,Depeche Mode,The Singles 86-98, 1987,225880,4,0.566,0.961,4,-3.46,0,0.0354,0.044,0.00106,0.352,0.866,118.988,63
+Walking in My Shoes,Depeche Mode,Songs of Faith and Devotion (Deluxe), 1993,326106,4,0.538,0.711,2,-9.748,0,0.0287,0.111,0.00000553,0.237,0.502,93.08,57
+Come Back Jonee,DEVO,Q: Are We Not Men? A: We Are Devo!, 1978,229266,4,0.355,0.874,7,-7.734,1,0.217,0.0315,0.161,0.253,0.77,176.79,27
+Freedom of Choice,DEVO,Freedom of Choice, 1980,208560,4,0.835,0.871,0,-13.353,1,0.0359,0.457,0.00852,0.0557,0.963,140.386,39
+Girl U Want,DEVO,Freedom of Choice, 1980,177306,4,0.73,0.398,4,-12.824,1,0.0642,0.343,0.0000182,0.0491,0.799,172.651,35
+Jocko Homo,DEVO,Q: Are We Not Men? A: We Are Devo!, 1978,217493,4,0.567,0.556,7,-12.952,1,0.108,0.557,0.000441,0.118,0.808,123.899,33
+Peek-A-Boo,DEVO,Oh No! It's Devo, 1982,180733,4,0.772,0.77,0,-11.888,1,0.0691,0.228,0.703,0.0923,0.714,145.024,32
+Smart Patrol / Mr. DNA,DEVO,Duty Now for the Future, 1978,366333,4,0.495,0.496,7,-14.984,1,0.148,0.00436,0.0839,0.125,0.292,137.286,26
+Through Being Cool,DEVO,New Traditionalists, 1982,194693,4,0.643,0.448,11,-14.897,0,0.06,0.00825,0.00705,0.0913,0.847,156.528,29
+Uncontrollable Urge,DEVO,Q: Are We Not Men? A: We Are Devo!, 1978,191266,3,0.571,0.858,2,-7.066,1,0.0326,0.0551,0.665,0.0943,0.716,92.523,52
+Whip It,DEVO,Freedom of Choice, 1980,161133,4,0.78,0.869,9,-7.255,1,0.0517,0.0744,0.004,0.0621,0.957,157.902,64
+Working in the Coal Mine,DEVO,Turn Around: B-Sides & More (1978-1984), 1981,169171,4,0.794,0.672,5,-7.575,1,0.119,0.562,0.00265,0.0879,0.78,158.937,30
+Feel the Pain,Dinosaur Jr.,Without a Sound, 1994,259600,4,0.34,0.804,0,-8.355,1,0.0516,0.00331,0.0191,0.0727,0.854,131.5,55
+The Wagon,Dinosaur Jr.,Green Mind, 1991,295360,4,0.251,0.976,7,-10.412,1,0.084,0.000291,0.000563,0.603,0.0892,172.294,43
+Decadence,Disturbed,Ten Thousand Fists, 2008,204786,4,0.528,0.968,1,-3.457,1,0.145,5.67E-05,0.0916,0.0668,0.305,91.934,65
+Down with the Sickness,Disturbed,The Sickness, 2000,279213,4,0.695,0.876,3,-4.262,0,0.0553,0.000996,0.00000689,0.106,0.941,89.954,75
+Stricken,Disturbed,Ten Thousand Fists, 2005,245226,4,0.402,0.969,8,-2.825,1,0.181,9.14E-05,0.0325,0.225,0.262,173.847,71
+Bring on the Dancing Horses,Echo & the Bunnymen,Songs to Learn & Sing, 1985,235800,4,0.568,0.926,2,-5.274,1,0.0405,0.0064,0.00486,0.315,0.755,118.448,54
+Lips Like Sugar,Echo & the Bunnymen,Echo & The Bunnymen, 1987,291866,4,0.552,0.934,4,-4.039,1,0.0299,0.00448,0.0212,0.258,0.863,130.001,53
+Never Stop,Echo & the Bunnymen,Songs to Learn & Sing, 1990,285866,4,0.667,0.867,4,-7.284,0,0.0352,0.438,0.01,0.134,0.916,137.185,33
+Nothing Lasts Forever,Echo & the Bunnymen,Evergreen (Expanded), 1997,235119,4,0.432,0.654,0,-5.345,1,0.0273,0.028,0.0000133,0.176,0.399,83.85,44
+Over the Wall,Echo & the Bunnymen,Heaven up Here, 1984,366506,4,0.498,0.875,0,-9.88,1,0.0334,0.000264,0.0877,0.0775,0.63,133.089,19
+Rescue,Echo & the Bunnymen,"Me, I'm All Smiles", 1980,271866,4,0.462,0.682,4,-10.902,0,0.0567,0.0931,0.00000182,0.894,0.618,129.8,3
+Seven Seas,Echo & the Bunnymen,Ocean Rain, 1984,199386,4,0.556,0.829,0,-5.123,1,0.0373,0.105,0.0000722,0.29,0.793,134.382,37
+The Cutter,Echo & the Bunnymen,Porcupine (Expanded; 2004 Remaster), 1983,232746,4,0.471,0.955,7,-5.219,1,0.121,0.00485,0.00000144,0.162,0.35,139.266,49
+The Killing Moon,Echo & the Bunnymen,Ocean Rain, 1984,348293,4,0.568,0.829,7,-7.066,1,0.0303,0.218,0.00418,0.0976,0.79,124.201,56
+Alison,Elvis Costello,My Aim Is True, 1977,204533,4,0.557,0.32,1,-10.792,0,0.0438,0.739,0.0000399,0.112,0.377,176.647,52
+Watching The Detectives,Elvis Costello,My Aim Is True, 1977,226040,4,0.777,0.371,9,-12.208,0,0.0602,0.015,0.0000157,0.158,0.824,133.598,36
+(I Don't Want To Go To) Chelsea - 2021 Remaster,Elvis Costello & The Attractions,This Year's Model (2021 Remaster), 1978,190306,4,0.515,0.832,11,-5.643,0,0.0398,0.0664,0.000486,0.055,0.952,166.728,43
+"(What's So Funny 'Bout) Peace, Love And Understanding",Elvis Costello & The Attractions,Armed Forces (Super Deluxe Edition), 1978,211630,4,0.381,0.918,7,-9.451,1,0.0803,0.000466,0.0511,0.321,0.368,142.34,40
+Accidents Will Happen,Elvis Costello & The Attractions,Armed Forces (Super Deluxe Edition), 1979,181720,4,0.608,0.597,0,-11.115,1,0.0276,0.0441,0.00342,0.285,0.736,120.077,37
+Everyday I Write The Book,Elvis Costello & The Attractions,Punch The Clock, 1983,234306,4,0.651,0.755,1,-9.102,0,0.0337,0.315,0.000174,0.235,0.716,102.229,48
+Oliver's Army,Elvis Costello & The Attractions,Armed Forces (Super Deluxe Edition), 1979,180840,4,0.527,0.725,4,-9.405,1,0.0287,0.336,0,0.221,0.94,143.162,49
+Pump It Up - 2021 Remaster,Elvis Costello & The Attractions,This Year's Model (2021 Remaster), 1978,196680,4,0.645,0.809,11,-6.12,1,0.0385,0.00921,0.00108,0.106,0.966,138.978,57
+"Radio, Radio - 2021 Remaster",Elvis Costello & The Attractions,This Year's Model (2021 Remaster), 1978,186213,4,0.596,0.872,4,-4.925,1,0.0796,0.135,0.00000323,0.278,0.899,146.734,44
+Shipbuilding,Elvis Costello & The Attractions,Punch The Clock, 1983,292720,3,0.356,0.296,7,-13.676,1,0.0322,0.731,0.0000189,0.15,0.166,142.869,38
+Santa Monica,Everclear,Sparkle And Fade, 1997,191506,4,0.491,0.942,7,-5.333,1,0.109,0.156,0,0.367,0.398,100.441,68
+Wonderful,Everclear,Songs From An American Movie: Learning How To Smile, 1997,280813,4,0.514,0.817,7,-6.489,1,0.05,0.0118,0.00000825,0.346,0.734,186.765,54
+Cosmic Love,Florence + The Machine,Lungs (Deluxe Edition), 2009,255133,4,0.524,0.803,9,-5.56,0,0.0366,0.145,0.000191,0.115,0.0827,140.003,61
+Dog Days Are Over,Florence + The Machine,Lungs (Deluxe Edition), 2008,251840,4,0.492,0.81,7,-5.315,1,0.0847,0.0416,0.00379,0.117,0.245,149.954,75
+Hunger,Florence + The Machine,High As Hope, 2018,214666,4,0.729,0.675,2,-5.62,0,0.0415,0.53,0,0.0985,0.332,116.016,59
+Kiss With A Fist,Florence + The Machine,Lungs (Deluxe Edition), 2008,123333,4,0.367,0.801,2,-5.396,1,0.137,0.0024,0.000273,0.0603,0.624,107.014,55
+Rabbit Heart (Raise It Up),Florence + The Machine,Lungs (Deluxe Edition), 2009,232146,4,0.607,0.853,9,-3.524,0,0.0443,0.0553,0.00003,0.301,0.389,116.977,48
+Shake It Out,Florence + The Machine,Ceremonials - Deluxe Edition, 2011,277720,4,0.528,0.804,10,-4.168,1,0.0358,0.0104,0,0.105,0.222,107.48,63
+Ship To Wreck,Florence + The Machine,"How Big, How Blue, How Beautiful (Deluxe)", 2015,234526,4,0.564,0.923,9,-3.843,0,0.0325,0.00147,0,0.277,0.587,141.991,56
+Spectrum (Say My Name) - Calvin Harris Remix,Florence + The Machine,Spectrum (Say My Name) EP, 2012,218190,4,0.578,0.946,11,-3.85,0,0.0482,0.00225,0.00412,0.0966,0.588,126.092,57
+What The Water Gave Me,Florence + The Machine,Ceremonials - Deluxe Edition, 2011,333466,4,0.492,0.565,0,-6.445,0,0.0319,0.00933,0.000224,0.114,0.183,124.095,45
+All My Life,Foo Fighters,One By One (Expanded Edition), 2002,263440,4,0.577,0.604,5,-5.703,1,0.0495,0.000218,0.000579,0.477,0.637,167.719,72
+Best of You,Foo Fighters,In Your Honor, 2005,255626,4,0.366,0.94,1,-5.119,0,0.0696,0.000769,0.0000942,0.188,0.369,130.198,75
+Big Me,Foo Fighters,Foo Fighters, 1995,132840,4,0.579,0.708,0,-10.419,1,0.0374,0.442,0,0.11,0.846,130.97,64
+Everlong,Foo Fighters,The Colour And The Shape, 1997,250546,4,0.413,0.881,11,-5.541,0,0.0367,5.99E-05,0.000308,0.0805,0.364,158.066,83
+Learn to Fly,Foo Fighters,There Is Nothing Left To Lose, 1999,235293,4,0.465,0.919,4,-4.025,1,0.0408,1.83E-05,0.0000207,0.262,0.537,135.997,76
+Monkey Wrench,Foo Fighters,The Colour And The Shape, 1997,231480,4,0.401,0.953,4,-4.276,1,0.0752,1.83E-05,0.0000256,0.149,0.555,174.217,69
+My Hero,Foo Fighters,The Colour And The Shape, 1998,260026,4,0.398,0.927,9,-4.212,1,0.0567,6.2E-05,0.000177,0.0575,0.311,77.106,75
+The Pretender,Foo Fighters,"Echoes, Silence, Patience & Grace", 2007,269373,4,0.433,0.959,9,-4.04,1,0.0431,0.000917,0,0.028,0.365,172.984,78
+Times Like These,Foo Fighters,One By One (Expanded Edition), 2003,265560,4,0.376,0.908,4,-3.793,0,0.0879,1.4E-05,0.000014,0.241,0.266,144.581,68
+Walk,Foo Fighters,Wasting Light, 2011,255960,4,0.234,0.865,9,-5.131,1,0.0516,3.62E-05,0.000532,0.289,0.194,137.107,68
+#1 Crush,Garbage,Absolute Garbage, 1996,285106,4,0.635,0.647,7,-7.055,0,0.0235,0.000256,0.00132,0.358,0.464,94.196,40
+I Think I'm Paranoid,Garbage,Version 2.0 (20th Anniversary Deluxe Edition / Remastered), 1998,218134,4,0.559,0.772,0,-6.947,1,0.033,0.000553,0.0332,0.435,0.477,113.875,51
+Milk,Garbage,Garbage (20th Anniversary Deluxe Edition/Remastered), 1998,234573,4,0.544,0.763,4,-6.556,0,0.0256,0.0192,0.00159,0.154,0.603,95.018,35
+Only Happy When It Rains,Garbage,Garbage (20th Anniversary Deluxe Edition/Remastered), 1995,236533,4,0.511,0.827,1,-4.55,0,0.0323,3.77E-05,0.00103,0.208,0.486,121.459,55
+Push It,Garbage,Version 2.0 (20th Anniversary Deluxe Edition / Remastered), 1998,242533,4,0.564,0.909,0,-6.471,1,0.0311,0.00034,0.11,0.0746,0.892,123.895,42
+Special,Garbage,Version 2.0 (20th Anniversary Deluxe Edition / Remastered), 1998,223602,4,0.443,0.944,0,-3.71,0,0.0377,8.79E-05,0.000542,0.369,0.573,131.828,42
+Stupid Girl - Remastered 2015,Garbage,Garbage (20th Anniversary Deluxe Edition/Remastered), 1996,258533,4,0.634,0.756,1,-4.81,0,0.0332,0.00251,0.000441,0.0427,0.661,119.948,51
+The World Is Not Enough,Garbage,Absolute Garbage, 1999,237733,4,0.477,0.855,10,-4.612,0,0.03,0.0421,0.0843,0.126,0.462,85.806,39
+Vow,Garbage,Garbage (20th Anniversary Deluxe Edition/Remastered), 1995,270133,4,0.486,0.911,5,-4.18,1,0.0443,8.45E-05,0.00364,0.613,0.362,126.393,33
+When I Grow Up,Garbage,Version 2.0 (20th Anniversary Deluxe Edition / Remastered), 1999,204527,4,0.581,0.841,7,-7.183,0,0.0386,0.000772,0.0000252,0.754,0.742,139.873,45
+Allison Road,Gin Blossoms,New Miserable Experience, 1992,199240,4,0.544,0.895,2,-7.253,1,0.0457,0.00666,0,0.105,0.932,134.65,49
+Follow You Down,Gin Blossoms,Congratulations I'm Sorry, 1996,270066,4,0.461,0.924,4,-7.047,0,0.0449,0.0123,0,0.0342,0.68,155.829,54
+Found Out About You,Gin Blossoms,New Miserable Experience, 1992,233400,4,0.539,0.826,7,-8.037,1,0.0276,0.00224,0.0451,0.0832,0.669,134.718,60
+Hey Jealousy,Gin Blossoms,New Miserable Experience, 1992,236626,4,0.471,0.797,6,-8.407,0,0.0389,0.000179,0.00000649,0.299,0.497,152.903,63
+Mrs. Rita,Gin Blossoms,New Miserable Experience, 1992,265866,4,0.508,0.807,4,-8.71,0,0.0318,8.12E-05,0.000012,0.109,0.817,142.777,29
+Not Only Numb,Gin Blossoms,Congratulations I'm Sorry, 1996,186400,4,0.614,0.685,7,-8.309,1,0.0261,0.0872,0,0.339,0.748,112.519,38
+Until I Fall Away,Gin Blossoms,New Miserable Experience, 1992,232600,4,0.641,0.696,1,-9.456,0,0.0266,0.00768,0.0258,0.0485,0.82,122.721,45
+21 Guns,Green Day,21st Century Breakdown, 2009,321093,4,0.268,0.742,5,-4.939,1,0.0355,0.0518,0,0.626,0.416,159.779,75
+American Idiot,Green Day,American Idiot, 2004,176346,4,0.38,0.988,1,-2.042,1,0.0639,2.64E-05,0.0000786,0.368,0.769,186.113,80
+Basket Case,Green Day,Dookie, 1994,181533,4,0.442,0.943,3,-3.205,1,0.0602,0.00293,0.00000871,0.091,0.781,85.064,83
+Boulevard of Broken Dreams,Green Day,Greatest Hits: God's Favorite Band, 2004,262333,4,0.496,0.682,8,-4.095,1,0.0294,0.00552,0.0000294,0.0589,0.474,167.06,72
+Good Riddance (Time of Your Life),Green Day,Nimrod, 1997,153466,4,0.475,0.432,7,-7.844,1,0.0302,0.183,0,0.161,0.648,94.605,81
+Holiday,Green Day,Greatest Hits: God's Favorite Band, 2004,232680,4,0.552,0.89,8,-3.409,1,0.0342,0.000143,0,0.888,0.716,146.525,64
+Longview,Green Day,Dookie, 1994,233240,4,0.381,0.732,10,-7.594,0,0.0536,0.00834,0.0101,0.0854,0.814,142.504,67
+Minority,Green Day,Warning, 2000,168226,4,0.551,0.965,0,-2.772,1,0.0452,0.00576,0,0.171,0.708,137.841,60
+Wake Me up When September Ends,Green Day,American Idiot, 2004,285653,4,0.546,0.814,7,-5.146,1,0.0314,0.023,0,0.0972,0.146,104.98,77
+When I Come Around,Green Day,Dookie, 1994,178000,4,0.531,0.909,11,-4.236,1,0.034,0.0175,0,0.231,0.814,97.546,80
+Anna Molly,Incubus,Light Grenades, 2006,225880,4,0.451,0.973,8,-2.611,1,0.0514,0.00428,0.00000736,0.0924,0.628,151.885,60
+Are You In?,Incubus,Morning View, 2001,264200,4,0.526,0.587,2,-8.733,1,0.039,0.24,0.243,0.886,0.364,93.986,58
+Drive,Incubus,Make Yourself, 2000,232453,4,0.645,0.792,4,-7.34,0,0.036,0.0562,0.0121,0.119,0.666,90.565,78
+Love Hurts,Incubus,Light Grenades, 2006,237066,4,0.474,0.805,4,-4.063,0,0.0266,0.0129,0.00000251,0.175,0.409,78.102,56
+Megalomaniac,Incubus,A Crow Left Of The Murder..., 2004,294800,4,0.532,0.943,7,-4.549,0,0.0512,0.0056,0.000587,0.317,0.371,140.042,55
+Nice to Know You,Incubus,Morning View, 2001,283160,4,0.515,0.864,2,-5.384,1,0.0478,0.00182,0.0000732,0.108,0.232,153.966,58
+Pardon Me,Incubus,Make Yourself, 1999,223746,4,0.579,0.812,1,-6.509,0,0.0693,0.00114,0.00333,0.115,0.278,152.002,68
+Stellar,Incubus,Make Yourself, 1999,200493,4,0.582,0.765,9,-6.544,1,0.0376,0.00106,0.0506,0.344,0.528,128.164,62
+Wish You Were Here,Incubus,Morning View, 2001,212733,4,0.246,0.768,9,-7.48,1,0.0387,0.000631,0.301,0.102,0.35,169.873,70
+Been Caught Stealing,Jane's Addiction,Ritual De Lo Habitual, 1990,214706,4,0.639,0.929,0,-4.762,1,0.212,0.00326,0.0501,0.242,0.688,103.758,53
+Classic Girl,Jane's Addiction,Ritual De Lo Habitual, 1990,307800,5,0.302,0.556,9,-9.448,1,0.0336,0.0248,0.002,0.107,0.243,112.559,29
+I Would for You,Jane's Addiction,Jane's Addiction (Live), 1990,232266,4,0.364,0.0287,11,-19.914,0,0.0327,0.963,0.00368,0.123,0.0982,135.95,34
+Jane Says,Jane's Addiction,Nothing's Shocking, 1988,287000,4,0.402,0.597,2,-9.258,1,0.0327,0.0385,0.00000209,0.109,0.496,81.806,63
+Mountain Song,Jane's Addiction,Nothing's Shocking, 1988,242720,4,0.324,0.931,9,-6.803,1,0.0837,0.0155,0.0252,0.277,0.313,82.748,52
+Ocean Size,Jane's Addiction,Nothing's Shocking, 1988,259666,4,0.257,0.901,9,-9.074,1,0.0832,0.0896,0.0137,0.227,0.252,93.286,45
+Stop,Jane's Addiction,Ritual De Lo Habitual, 1990,254106,4,0.416,0.752,9,-8.239,1,0.111,0.0128,0.000527,0.595,0.354,122.789,44
+Three Days,Jane's Addiction,Ritual De Lo Habitual, 1990,648506,4,0.286,0.837,9,-8.711,1,0.083,0.00445,0.0859,0.116,0.315,106.711,39
+A Praise Chorus,Jimmy Eat World,Bleed American, 2001,243506,4,0.461,0.936,9,-5.296,1,0.0678,0.0249,0.00000863,0.222,0.484,184.184,51
+Bleed American,Jimmy Eat World,Bleed American, 2001,181493,4,0.438,0.938,6,-5.611,0,0.094,0.00842,0.00000108,0.806,0.584,160.212,65
+Goodbye Sky Harbor,Jimmy Eat World,Clarity (Expanded Edition), 2001,973173,4,0.657,0.697,9,-6.901,1,0.0232,0.145,0.096,0.2,0.678,135.315,28
+Hear You Me,Jimmy Eat World,Bleed American, 2001,284373,3,0.465,0.517,4,-6.189,1,0.0284,0.00854,0.0403,0.209,0.137,136.176,61
+Just Tonight,Jimmy Eat World,Futures (Deluxe Edition), 2005,206373,4,0.393,0.939,8,-3.457,0,0.0963,0.000134,0.000114,0.134,0.694,172.977,47
+Pain,Jimmy Eat World,Futures, 2004,181306,4,0.39,0.965,0,-3.38,0,0.119,0.0181,0,0.583,0.195,168.006,47
+Sweetness,Jimmy Eat World,Bleed American, 2001,220026,4,0.487,0.898,5,-4.436,1,0.038,0.00305,0,0.26,0.597,135.331,68
+The Middle,Jimmy Eat World,Bleed American, 2001,165853,4,0.643,0.849,2,-5.428,1,0.0526,0.0371,0,0.058,0.903,162.152,83
+Work,Jimmy Eat World,Futures, 2004,203506,4,0.544,0.926,8,-3.575,1,0.0634,0.00741,0,0.214,0.352,115.081,38
+Atmosphere,Joy Division,TOTAL, 1980,251866,4,0.611,0.435,6,-10.791,1,0.0308,0.214,0.474,0.102,0.436,120.066,30
+Dead Souls - 2007 Remaster,Joy Division,Still (Collector's Edition), 1980,293693,4,0.484,0.962,5,-5.317,1,0.0585,0.0496,0.668,0.116,0.633,116.795,39
+Disorder - 2019 Digital Master,Joy Division,Unknown Pleasures, 1979,212360,4,0.325,0.828,10,-6.272,0,0.117,0.000269,0.729,0.11,0.73,85.115,47
+Isolation - 2007 Remaster,Joy Division,Closer (Collector's Edition), 1980,175093,4,0.544,0.783,0,-8.12,1,0.054,0.048,0.00734,0.0917,0.697,151.522,47
+Love Will Tear Us Apart,Joy Division,TOTAL, 1980,206226,4,0.524,0.921,2,-7.709,1,0.0367,0.00103,0.768,0.128,0.908,146.849,39
+New Dawn Fades - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition), 1980,291706,4,0.387,0.525,2,-9.634,1,0.035,0.00236,0.769,0.251,0.258,78.339,48
+Shadowplay - 2019 Digital Master,Joy Division,Unknown Pleasures, 1980,235653,4,0.423,0.769,9,-7.2,1,0.0617,0.00107,0.862,0.135,0.109,145.386,44
+She's Lost Control - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition), 1980,237013,4,0.485,0.846,11,-7.63,0,0.0528,0.0157,0.0287,0.0766,0.743,144.246,55
+Transmission,Joy Division,TOTAL, 1979,218213,4,0.483,0.842,7,-7.126,1,0.0384,0.032,0.55,0.0962,0.668,153.594,26
+Warsaw - 2010 Remaster,Joy Division,Substance, 1979,144661,4,0.561,0.7,0,-8.82,1,0.0798,0.356,0.0000296,0.0723,0.607,82.857,48
+"21st Century Schizoid Man - Including ""Mirrors""",King Crimson,In The Court Of The Crimson King (Expanded & Remastered Original Album Mix), 1969,442580,4,0.342,0.701,7,-9.916,0,0.0626,0.000409,0.588,0.197,0.558,139.563,55
+"Epitaph - Including ""March for No Reason"" and ""Tomorrow and Tomorrow""",King Crimson,In The Court Of The Crimson King (Expanded & Remastered Original Album Mix), 1969,526822,4,0.284,0.318,4,-12.919,0,0.0319,0.00721,0.00864,0.0858,0.0924,131.699,53
+Indiscipline,King Crimson,Discipline, 1981,273000,4,0.355,0.452,7,-10.786,0,0.0525,0.0168,0.298,0.0933,0.594,121.455,38
+Red,King Crimson,Red (Expanded & Remastered Original Album Mix), 1974,375748,4,0.295,0.743,9,-8.564,1,0.03,0.00278,0.877,0.16,0.119,88.089,40
+"The Court Of The Crimson King - Including ""The Return of the Fire Witch"" and ""The Dance of the Puppets""",King Crimson,In The Court Of The Crimson King (Expanded & Remastered Original Album Mix), 1969,602530,4,0.337,0.344,4,-12.079,0,0.0429,0.0832,0.207,0.224,0.0704,135.871,52
+The Devils Triangle,King Crimson,In The Wake Of Poseidon, 1969,697023,5,0.191,0.458,2,-15.031,1,0.0513,0.00395,0.818,0.0785,0.08,117.85,28
+The Night Watch,King Crimson,Starless And Bible Black, 1973,281611,4,0.264,0.305,11,-15.952,0,0.0413,0.0407,0.0164,0.19,0.125,118.221,30
+A.D.I.D.A.S.,Korn,Life Is Peachy, 1996,153600,4,0.334,0.898,11,-6.821,0,0.196,0.00406,0.0202,0.162,0.226,110.364,66
+Blind,Korn,Korn, 1997,258266,4,0.283,0.891,2,-8.165,1,0.178,0.00678,0.0038,0.159,0.226,92.049,69
+Coming Undone,Korn,See You On the Other Side, 2005,199773,4,0.687,0.677,2,-4.172,1,0.0508,0.000643,0.000137,0.0564,0.545,75.052,75
+Falling Away from Me,Korn,Issues, 1999,270920,4,0.468,0.769,4,-7.036,1,0.041,0.00014,0.00124,0.271,0.17,104.102,72
+Freak On a Leash,Korn,Follow The Leader, 1998,255733,4,0.353,0.898,2,-5.877,1,0.052,2.23E-05,0.105,0.39,0.525,103.299,78
+Got the Life,Korn,Follow The Leader, 1998,225306,4,0.498,0.905,11,-5.721,0,0.0521,1.85E-05,0.765,0.383,0.584,123.338,72
+Here to Stay,Korn,Untouchables, 2002,270960,4,0.564,0.947,2,-4.998,1,0.0448,7.81E-06,0.828,0.373,0.351,100.002,64
+Make Me Bad,Korn,Issues, 1999,235613,4,0.531,0.793,11,-6.889,0,0.0496,0.000192,0.0241,0.229,0.417,110.003,64
+Thoughtless,Korn,Untouchables, 2002,272920,4,0.593,0.933,5,-4.894,1,0.119,0.000445,0.384,0.068,0.497,153.993,56
+Twist,Korn,Life Is Peachy, 1999,49213,4,0.558,0.989,1,-5.041,0,0.158,0.395,0.0000981,0.375,0.635,83.071,65
+Bleed It Out,Linkin Park,Minutes to Midnight, 2007,164426,4,0.541,0.969,11,-3.439,1,0.0458,0.113,0,0.638,0.599,140.119,79
+Breaking the Habit,Linkin Park,Meteora, 2005,196133,4,0.58,0.865,4,-4.359,0,0.0313,0.105,0,0.106,0.587,100.016,66
+Crawling,Linkin Park,Hybrid Theory (Bonus Edition), 2001,208960,4,0.58,0.702,4,-5.565,1,0.0337,0.0466,0.0000032,0.536,0.299,105.076,79
+Faint,Linkin Park,Meteora, 2003,162106,4,0.554,0.98,4,-3.514,1,0.108,0.127,0,0.0833,0.611,135.12,80
+In the End,Linkin Park,Hybrid Theory (Bonus Edition), 2001,216880,4,0.556,0.864,3,-5.87,0,0.0584,0.00958,0,0.209,0.4,105.143,86
+Numb,Linkin Park,Meteora, 2003,187520,4,0.488,0.87,6,-4.185,0,0.0421,0.00353,0,0.484,0.211,110.072,84
+One Step Closer,Linkin Park,Hybrid Theory (Bonus Edition), 2001,157333,4,0.492,0.969,9,-4.419,1,0.0491,0.0014,0.00000132,0.0787,0.538,95.136,80
+Papercut,Linkin Park,Hybrid Theory (Bonus Edition), 2001,184866,4,0.524,0.939,9,-3.994,1,0.113,0.00022,0,0.623,0.661,150.184,78
+Somewhere I Belong,Linkin Park,Meteora, 2003,213933,4,0.451,0.951,1,-3.754,1,0.0645,0.000386,0.00000256,0.261,0.441,162.041,71
+Coney Island Baby,Lou Reed,Coney Island Baby, 1975,395226,4,0.536,0.432,0,-9.495,1,0.0364,0.547,0.0000993,0.128,0.474,80.34,48
+Heroin - Live,Lou Reed,Rock 'n' Roll Animal (Live), 1974,783373,4,0.259,0.623,0,-9.512,1,0.103,0.218,0.127,0.991,0.197,169.863,30
+I'm Waiting for the Man - May 1965 Demo,Lou Reed,"Words & Music, May 1965", 1965,283853,4,0.61,0.224,5,-13.471,1,0.0314,0.981,0.0259,0.153,0.349,99.035,17
+Perfect Day,Lou Reed,Transformer, 1972,225000,3,0.4,0.267,10,-12.488,1,0.0323,0.744,0.00734,0.103,0.0872,144.799,66
+Rock 'N' Roll - Live,Lou Reed,Rock 'n' Roll Animal (Live), 1974,608840,4,0.442,0.861,5,-8.781,1,0.132,0.211,0.0637,0.954,0.526,138.158,31
+Satellite of Love,Lou Reed,Transformer, 1972,221120,4,0.458,0.502,5,-10.186,1,0.0294,0.442,0.00000551,0.299,0.571,121.861,56
+Sweet Jane,Lou Reed,Between Thought And Expression, 1972,477106,4,0.394,0.649,4,-12.938,1,0.0571,0.178,0.311,0.212,0.699,111.317,27
+Vicious,Lou Reed,Transformer, 1972,176533,4,0.605,0.846,2,-7.755,1,0.0337,0.0006,0.886,0.0526,0.952,124.247,52
+Walk On the Wild Side,Lou Reed,Transformer, 1972,254173,4,0.575,0.318,0,-16.729,1,0.109,0.683,0.000202,0.0934,0.385,104.522,75
+3rd Planet,Modest Mouse,The Moon & Antarctica, 2000,238493,4,0.536,0.567,7,-7.512,1,0.113,0.326,0.0000187,0.109,0.433,82.191,47
+Dashboard,Modest Mouse,We Were Dead Before The Ship Even Sank, 2007,246173,4,0.639,0.903,11,-5.013,0,0.0371,0.00963,0.0000706,0.174,0.96,135.938,60
+Dramamine,Modest Mouse,This Is a Long Drive for Someone with Nothing to Think About, 1996,342000,3,0.378,0.736,4,-9.438,0,0.0407,0.326,0.105,0.107,0.796,182.672,56
+Float On,Modest Mouse,Good News For People Who Love Bad News, 2004,208466,4,0.649,0.888,6,-4.807,1,0.0293,0.013,0.00000223,0.0888,0.553,100.975,74
+Gravity Rides Everything,Modest Mouse,The Moon & Antarctica, 2004,259839,4,0.395,0.443,4,-7.972,1,0.0396,0.431,0.0352,0.504,0.714,103.262,50
+Lampshades on Fire,Modest Mouse,Strangers to Ourselves, 2015,187720,4,0.659,0.906,7,-3.906,0,0.0428,0.156,0.00000327,0.105,0.792,94.997,55
+Missed the Boat,Modest Mouse,We Were Dead Before The Ship Even Sank, 2007,264813,4,0.71,0.698,2,-5.797,1,0.0332,0.0697,0,0.478,0.852,104.007,56
+Ocean Breathes Salty,Modest Mouse,Good News For People Who Love Bad News, 2004,224333,4,0.646,0.964,7,-3.177,1,0.0369,0.0407,0.00000365,0.293,0.747,95.479,54
+Parting of the Sensory,Modest Mouse,We Were Dead Before The Ship Even Sank, 2007,334373,4,0.59,0.954,9,-4.679,0,0.0726,0.16,0.000242,0.159,0.718,129.979,39
+The World At Large,Modest Mouse,Good News For People Who Love Bad News, 2004,272506,4,0.523,0.477,6,-9.076,1,0.0254,0.0961,0.000106,0.101,0.249,76.973,54
+Hysteria,Muse,Absolution, 2003,227023,4,0.256,0.911,0,-4.479,1,0.0868,8.58E-05,0.000925,0.232,0.428,186.078,72
+Knights of Cydonia,Muse,Black Holes and Revelations, 2006,366213,4,0.366,0.963,11,-5.301,0,0.142,0.000273,0.0122,0.115,0.211,137.114,67
+Madness,Muse,The 2nd Law, 2012,281040,4,0.502,0.417,10,-7.665,1,0.0718,0.127,0.00419,0.106,0.218,180.301,67
+Plug in Baby,Muse,Origin of Symmetry, 2001,218000,4,0.408,0.965,2,-4.232,1,0.05,6.94E-06,0.000402,0.11,0.349,136.018,53
+Resistance,Muse,The Resistance, 2009,346693,4,0.467,0.774,9,-6.569,0,0.0485,0.0616,0.289,0.108,0.0916,135.006,61
+Starlight,Muse,Black Holes and Revelations, 2006,240213,4,0.55,0.874,4,-4.046,1,0.0321,0.000436,0.0000102,0.206,0.318,121.61,72
+Supermassive Black Hole,Muse,Black Holes and Revelations, 2006,212439,4,0.668,0.921,7,-3.727,1,0.0439,0.0492,0.00517,0.0877,0.782,120,79
+Time is Running Out,Muse,Absolution, 2003,236535,4,0.544,0.892,9,-3.212,0,0.0591,0.000644,0.00266,0.0832,0.317,118.005,68
+Undisclosed Desires,Muse,The Resistance, 2009,235000,4,0.683,0.585,8,-6.76,1,0.0323,0.00819,0.0162,0.0797,0.641,115.997,65
+Uprising,Muse,The Resistance, 2009,304840,4,0.602,0.905,2,-4.046,1,0.0775,0.000202,0.064,0.117,0.411,128.019,75
+Lose My Breath,my bloody valentine,Isn't Anything, 1991,217626,4,0.378,0.606,6,-13.003,1,0.0261,0.00362,0.84,0.116,0.436,91.875,40
+Only Shallow,my bloody valentine,Loveless, 1991,257519,4,0.138,0.691,0,-7.976,1,0.0443,0.000377,0.786,0.0895,0.36,170.342,50
+Famous Last Words,My Chemical Romance,The Black Parade, 2006,299226,4,0.467,0.883,2,-3.679,0,0.106,0.000321,0.000152,0.125,0.309,122.252,71
+Helena,My Chemical Romance,Three Cheers for Sweet Revenge, 2004,204733,4,0.356,0.96,4,-3.487,1,0.104,0.0142,0,0.209,0.0857,125.921,76
+I Don't Love You,My Chemical Romance,The Black Parade, 2007,238680,4,0.289,0.796,0,-4.22,1,0.0494,0.00837,0.0000261,0.202,0.33,169.835,74
+I'm Not Okay (I Promise),My Chemical Romance,Three Cheers for Sweet Revenge, 2004,186480,4,0.21,0.94,9,-3.427,1,0.123,0.00602,0,0.269,0.255,179.722,75
+SING,My Chemical Romance,Danger Days: The True Lives of the Fabulous Killjoys, 2004,270386,4,0.606,0.942,2,-3.618,1,0.0357,0.000233,0.00000707,0.106,0.373,110.98,57
+Teenagers,My Chemical Romance,The Black Parade, 2006,161920,4,0.463,0.857,4,-3.063,1,0.0632,0.0506,0,0.184,0.856,111.647,81
+The Ghost of You,My Chemical Romance,Three Cheers for Sweet Revenge, 2005,194253,4,0.202,0.886,11,-3.805,0,0.0816,0.0286,0,0.643,0.192,145.781,70
+The Sharpest Lives,My Chemical Romance,The Black Parade, 2006,200880,4,0.513,0.937,1,-3.427,0,0.0532,0.000111,0.000102,0.083,0.543,155.015,65
+Welcome to the Black Parade,My Chemical Romance,The Black Parade, 2006,311106,4,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95,78
+1963,New Order,Substance, 1986,335640,4,0.631,0.778,8,-12.989,1,0.0303,0.0241,0.0998,0.0323,0.927,125.75,32
+Age of Consent - 2015 Remaster,New Order,Power Corruption and Lies,1983,315333,4,0.372,0.91,2,-5.559,1,0.0392,0.00101,0.0944,0.13,0.756,161.964,63
+Bizarre Love Triangle,New Order,Brotherhood (Collector's Edition), 1986,263213,4,0.613,0.885,10,-7.463,1,0.052,0.0804,0.746,0.0997,0.919,118.506,65
+Blue Monday,New Order,Substance, 1983,449160,4,0.762,0.651,0,-13.34,1,0.0655,0.00198,0.856,0.111,0.941,130.395,70
+Love Vigilantes - 2015 Remaster,New Order,Low-Life,1985,259306,4,0.548,0.894,7,-5.988,1,0.0349,0.00702,0.00000629,0.081,0.8,136.12,46
+Regret,New Order,Republic, 1993,249840,4,0.504,0.966,5,-3.116,1,0.0329,0.000819,0.0747,0.226,0.742,129.595,35
+"Shellshock - 7"" Edit; 2015 Remaster",New Order,Singles (2016 Remaster),1986,264453,4,0.673,0.956,2,-6.671,0,0.0465,0.0258,0.0000798,0.2,0.818,122.276,39
+Temptation,New Order,Substance, 1982,419240,4,0.6,0.881,0,-9.478,1,0.0337,0.29,0.851,0.222,0.936,124.977,55
+The Perfect Kiss - 2015 Remaster,New Order,Low-Life,1985,289373,4,0.629,0.859,0,-6.065,1,0.0325,0.00521,0.252,0.131,0.8,130.405,47
+True Faith,New Order,Substance, 1987,355066,4,0.589,0.784,0,-13.037,1,0.0312,0.175,0.0767,0.132,0.941,116.981,58
+Closer,Nine Inch Nails,The Downward Spiral (Deluxe Edition), 1994,373306,4,0.546,0.724,10,-8.639,0,0.0427,0.000273,0.667,0.133,0.586,89.991,71
+Head Like A Hole,Nine Inch Nails,Pretty Hate Machine, 1989,299680,4,0.666,0.798,9,-11.26,1,0.0477,0.00848,0.00186,0.585,0.442,115.382,60
+Hurt,Nine Inch Nails,The Downward Spiral, 1994,374440,4,0.566,0.124,11,-18.166,0,0.0431,0.709,0.0104,0.132,0.11,79.924,59
+Into The Void,Nine Inch Nails,The Fragile, 2000,289306,4,0.712,0.796,8,-5.926,1,0.0435,0.145,0.0475,0.076,0.361,93.046,51
+March Of The Pigs,Nine Inch Nails,The Downward Spiral, 1994,178493,1,0.503,0.903,2,-7.427,1,0.0527,0.0218,0.197,0.0861,0.0586,134.462,57
+Sin,Nine Inch Nails,Pretty Hate Machine, 1994,246306,4,0.634,0.865,11,-10.799,1,0.0531,0.00104,0.701,0.867,0.74,128.439,49
+Terrible Lie,Nine Inch Nails,Pretty Hate Machine, 1989,278866,4,0.61,0.605,6,-12.484,1,0.0419,0.000925,0.157,0.344,0.458,87.953,52
+The Perfect Drug,Nine Inch Nails,Lost Highway, 1997,315440,4,0.627,0.883,5,-8.988,0,0.0946,0.0207,0.00364,0.323,0.252,149.024,52
+We're In This Together,Nine Inch Nails,We're In This Together, 1999,436533,4,0.551,0.692,0,-7.256,1,0.0346,0.000255,0.218,0.278,0.2,100.061,16
+Wish,Nine Inch Nails,Broken, 1992,226733,4,0.516,0.989,7,-7.206,1,0.0754,0.000407,0.355,0.697,0.149,135.053,53
+About A Girl,Nirvana,Bleach, 1989,168428,4,0.413,0.875,6,-7.48,0,0.031,5.13E-06,0.00058,0.209,0.575,131.951,80
+All Apologies,Nirvana,In Utero, 1993,233173,4,0.446,0.632,1,-12.197,1,0.034,0.0793,0.000266,0.0881,0.359,113.176,72
+Breed,Nirvana,Nevermind (Remastered), 1991,184040,4,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,65
+Come As You Are,Nirvana,Nevermind (Remastered), 1991,218920,4,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,77
+Heart-Shaped Box,Nirvana,In Utero (Deluxe Edition), 1993,281160,4,0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006,81
+In Bloom,Nirvana,Nevermind (Remastered), 1991,255080,4,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,68
+Lithium,Nirvana,Nevermind (Remastered), 1991,257053,4,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,70
+Rape Me,Nirvana,In Utero (Deluxe Edition), 1993,170000,4,0.42,0.746,8,-10.628,1,0.0467,0.0141,0,0.0661,0.229,111.886,71
+Smells Like Teen Spirit,Nirvana,Nevermind (Remastered), 1991,301920,4,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,78
+The Man Who Sold The World - Live,Nirvana,MTV Unplugged In New York, 1994,261093,4,0.483,0.753,1,-8.937,0,0.0832,0.425,0.000142,0.257,0.42,115.102,75
+Bathwater,No Doubt,Return Of Saturn, 2000,242800,4,0.624,0.732,4,-4.931,0,0.0543,0.412,0,0.33,0.619,145.929,51
+Don't Speak,No Doubt,Tragic Kingdom, 1996,263560,4,0.52,0.709,5,-7.125,0,0.0352,0.247,0.0000178,0.18,0.536,76.039,79
+Ex-Girlfriend,No Doubt,Return Of Saturn, 2000,212400,4,0.546,0.907,4,-4.117,0,0.09,0.0135,0.00232,0.169,0.654,173.178,52
+Hella Good,No Doubt,Rock Steady (Expanded Edition), 2002,242586,4,0.772,0.665,8,-3.947,1,0.0349,0.0136,0.012,0.0905,0.838,115.138,63
+Hey Baby,No Doubt,Rock Steady (Expanded Edition), 2001,207040,4,0.705,0.872,11,-3.557,0,0.126,0.0618,0,0.227,0.75,93.628,57
+It's My Life,No Doubt,The Singles Collection, 2003,225866,4,0.606,0.75,8,-4.535,0,0.0306,0.00264,0.000788,0.321,0.771,126.316,56
+Just A Girl,No Doubt,Tragic Kingdom, 1995,209200,4,0.638,0.906,2,-4.824,1,0.0504,0.0662,0.0000688,0.142,0.767,107.991,74
+Simple Kind Of Life,No Doubt,Return Of Saturn, 2000,256933,4,0.576,0.849,0,-5.199,1,0.0355,0.0678,0,0.278,0.482,119.999,49
+Spiderwebs,No Doubt,Tragic Kingdom, 1995,266760,4,0.49,0.852,10,-7.192,1,0.0502,0.0376,0.00000221,0.126,0.663,143.248,62
+Underneath It All,No Doubt,Rock Steady (Expanded Edition), 2002,302720,4,0.729,0.731,4,-4.823,1,0.0682,0.235,0.00000135,0.391,0.838,138.204,63
+Champagne Supernova,Oasis,(What's The Story) Morning Glory?, 1995,450506,4,0.303,0.853,2,-2.26,1,0.0366,0.223,0.00159,0.361,0.119,150.381,61
+Cigarettes & Alcohol - Remastered,Oasis,Definitely Maybe (Deluxe Edition Remastered),1994,289146,4,0.294,0.742,2,-2.334,1,0.0458,1.45E-05,0.0311,0.152,0.44,114.87,57
+Don't Look Back In Anger - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Remastered Edition),1996,289560,4,0.328,0.936,0,-3.254,1,0.0628,0.0665,0.00000261,0.165,0.31,162.97,72
+Heroes,Oasis,D'You Know What I Mean?, 1996,249226,4,0.392,0.965,9,-2.917,0,0.0663,0.000131,0.00151,0.333,0.406,115.993,41
+Live Forever,Oasis,Definitely Maybe, 1994,276866,4,0.29,0.769,9,-5.578,0,0.0329,1.44E-05,0.00000835,0.375,0.198,90.248,56
+Lyla,Oasis,Don't Believe The Truth, 2005,310440,4,0.401,0.951,11,-2.57,1,0.0483,0.00014,0.000117,0.147,0.332,120.879,50
+Some Might Say - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Remastered Edition),1995,327920,4,0.259,0.927,0,-2.277,0,0.092,0.165,0.013,0.287,0.0734,110.156,55
+Supersonic,Oasis,Definitely Maybe, 1994,283744,4,0.39,0.877,9,-4.829,1,0.0347,4.9E-05,0.00241,0.265,0.689,103.94,56
+Wonderwall,Oasis,(What's The Story) Morning Glory?, 1995,258906,4,0.41,0.854,2,-5.609,1,0.0366,0.00236,0,0.133,0.456,174.584,70
+Wonderwall - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Remastered Edition),1995,258773,4,0.375,0.893,2,-4.097,1,0.0406,0.000509,0,0.187,0.434,174.323,78
+Broken Home,Papa Roach,Infest, 2002,222840,4,0.576,0.914,6,-5.034,1,0.0515,0.00177,0.000575,0.0914,0.471,94.521,46
+Falling Apart,Papa Roach,F.E.A.R., 2002,188919,4,0.528,0.942,3,-2.825,0,0.0512,8.26E-05,0,0.344,0.42,110.061,65
+Forever,Papa Roach,The Paramour Sessions, 2002,246333,4,0.575,0.591,2,-5.916,0,0.028,0.0173,0,0.173,0.332,107.967,57
+Getting Away With Murder,Papa Roach,Getting Away With Murder, 2004,191372,4,0.564,0.968,1,-3.75,1,0.0631,0.000116,0.0000397,0.226,0.352,103.885,62
+Help,Papa Roach,Crooked Teeth, 2004,214797,4,0.506,0.914,2,-4.786,1,0.0705,0.00085,0.0000031,0.315,0.244,91.756,69
+Kill The Noise,Papa Roach,Ego Trip, 2004,188127,4,0.533,0.865,0,-5.469,0,0.0601,0.000428,0.0000883,0.283,0.605,94.969,64
+Last Resort,Papa Roach,Infest, 2000,199906,4,0.589,0.89,4,-3.719,0,0.06,0.000481,0.00082,0.201,0.687,90.586,81
+Scars,Papa Roach,Getting Away With Murder, 2004,208186,4,0.384,0.921,11,-3.334,1,0.055,0.0948,0,0.168,0.471,89.922,70
+She Loves Me Not,Papa Roach,lovehatetragedy, 2002,209572,4,0.598,0.955,2,-4.52,1,0.0916,0.00122,0,0.243,0.402,119.126,59
+Ain't It Fun,Paramore,Paramore (Deluxe Edition), 2013,296520,4,0.61,0.893,9,-3.681,1,0.0921,0.154,0.0000441,0.021,0.673,104.031,59
+crushcrushcrush,Paramore,Riot!, 2007,189373,4,0.631,0.793,1,-4.086,0,0.0468,0.000218,0.0000565,0.0976,0.648,136.96,65
+Decode,Paramore,Decode, 2008,261959,4,0.28,0.87,10,-4.219,0,0.0592,0.000686,0.00608,0.101,0.284,164.057,73
+Hard Times,Paramore,After Laughter, 2017,182693,4,0.695,0.818,5,-5.379,0,0.0334,0.00647,0.00000487,0.0219,0.916,119.965,75
+Ignorance,Paramore,Brand New Eyes, 2009,218626,4,0.522,0.964,11,-2.645,0,0.095,0.00109,0.000389,0.0387,0.51,170.944,67
+Misery Business,Paramore,Riot!, 2007,211520,4,0.517,0.906,1,-3.677,1,0.0735,0.00272,0.00000926,0.113,0.731,172.977,74
+Playing God,Paramore,Brand New Eyes, 2009,182800,4,0.583,0.96,1,-3.597,0,0.0511,0.00105,0.0000297,0.0801,0.626,137.991,60
+Still into You,Paramore,Paramore, 2013,216013,4,0.602,0.923,5,-3.763,1,0.044,0.0098,0,0.0561,0.765,136.01,79
+That's What You Get,Paramore,Riot!, 2007,220480,3,0.528,0.831,8,-3.607,1,0.0429,9.43E-05,0,0.141,0.632,131.094,66
+The Only Exception,Paramore,Brand New Eyes, 2009,267653,3,0.452,0.563,4,-6.607,1,0.0272,0.144,0,0.143,0.209,137.715,74
+Alive,Pearl Jam,Ten, 1991,340907,4,0.284,0.875,11,-6.069,0,0.0422,0.00752,0.000461,0.402,0.595,75.009,75
+Better Man,Pearl Jam,Vitalogy, 1994,268586,4,0.445,0.671,2,-7.937,1,0.0387,0.165,0.0000156,0.0791,0.267,125.712,66
+Black,Pearl Jam,Ten, 1991,342653,4,0.36,0.684,4,-6.457,0,0.0308,0.323,0,0.34,0.2,77.15,73
+Corduroy - Remastered,Pearl Jam,Vitalogy,1994,277586,4,0.487,0.93,0,-7.3,1,0.0632,0.00241,0.0000282,0.0841,0.134,131.304,54
+Daughter,Pearl Jam,rearviewmirror (greatest hits 1991-2003), 1993,235693,4,0.615,0.773,7,-6.603,1,0.0311,0.0238,0.00279,0.0638,0.633,96.95,46
+Even Flow,Pearl Jam,Ten, 1991,292580,4,0.394,0.944,10,-6.506,0,0.0761,0.00178,0.00000454,0.298,0.265,105.338,78
+Given to Fly,Pearl Jam,Yield, 1998,238866,4,0.317,0.764,7,-7.076,1,0.0282,0.000294,0.099,0.0996,0.341,101.173,57
+Jeremy,Pearl Jam,Ten, 1991,318226,4,0.285,0.846,2,-6.472,1,0.0438,0.0404,0,0.182,0.287,108.808,70
+Last Kiss,Pearl Jam,Last Kiss, 1999,195466,4,0.622,0.692,7,-6.97,1,0.0276,0.363,0.000158,0.193,0.774,112.053,71
+Yellow Ledbetter,Pearl Jam,Jeremy, 1992,303586,4,0.504,0.354,4,-11.3,1,0.0339,0.29,0.00000471,0.157,0.292,140.87,69
+Always on My Mind - 2003 Remaster,Pet Shop Boys,PopArt: The Hits,1987,237653,4,0.533,0.889,7,-4.566,1,0.0362,0.00366,0.0593,0.338,0.579,124.768,56
+It's a Sin - 2018 Remaster,Pet Shop Boys,Actually: Further Listening 1987 - 1988 (2018 Remaster),1987,299253,4,0.544,0.86,0,-6.151,0,0.0489,0.206,0.00108,0.213,0.284,127.129,66
+West End Girls - 2018 Remaster,Pet Shop Boys,Please: Further Listening 1984 - 1986 (2018 Remaster),1984,285906,4,0.656,0.914,4,-7.471,0,0.0394,0.000943,0.0628,0.159,0.576,113.259,70
+Cactus - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),1990,136613,4,0.874,0.419,4,-14.501,0,0.0552,0.401,0.051,0.0997,0.823,116.206,46
+Caribou,Pixies,Come On Pilgrim, 1989,194200,3,0.432,0.643,0,-10.678,1,0.0398,0.0643,0.00738,0.361,0.277,115.043,45
+Debaser,Pixies,Doolittle, 1989,171746,4,0.489,0.913,5,-9.152,0,0.0479,0.00015,0.709,0.0703,0.539,135.756,61
+Gigantic - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),1988,235706,4,0.39,0.694,7,-11.783,1,0.0399,0.00299,0.304,0.0757,0.795,115.197,54
+Here Comes Your Man,Pixies,Doolittle, 1989,201186,4,0.669,0.795,2,-10.865,1,0.0285,0.00772,0.0781,0.401,0.882,124.594,70
+Hey,Pixies,Doolittle, 1988,210906,4,0.59,0.372,7,-12.37,1,0.0318,0.00105,0.00929,0.316,0.306,99.887,66
+I Bleed,Pixies,Doolittle, 1989,154800,4,0.487,0.518,11,-13.004,0,0.0361,0.000421,0.0251,0.11,0.762,170.856,51
+Monkey Gone to Heaven,Pixies,Doolittle, 1989,175333,4,0.654,0.39,6,-10.638,0,0.0307,0.00418,0.0069,0.271,0.566,116.572,63
+Wave Of Mutilation,Pixies,Doolittle, 1989,123906,4,0.587,0.811,5,-10.824,1,0.0328,0.000135,0.472,0.0901,0.75,132.727,58
+Where Is My Mind?,Pixies,Death to the Pixies, 1988,229226,4,0.513,0.442,4,-13.529,1,0.0343,0.00731,0.000838,0.0878,0.243,81.201,73
+All Mine,Portishead,Portishead, 1997,240640,4,0.601,0.656,8,-2.692,0,0.0403,0.11,0.0148,0.103,0.342,60.161,53
+Glory Box,Portishead,Dummy, 1994,308626,4,0.51,0.434,1,-10.004,1,0.0361,0.177,0.516,0.0603,0.207,119.695,74
+Machine Gun,Portishead,Third, 1997,283440,4,0.565,0.575,11,-6.116,1,0.0409,0.015,0.00225,0.106,0.0601,105.12,41
+Mysterons,Portishead,Dummy, 1994,305240,4,0.657,0.498,11,-11.529,1,0.262,0.405,0.000479,0.107,0.46,164.25,53
+Numb,Portishead,Dummy, 1994,235800,4,0.326,0.447,6,-6.11,1,0.0356,0.056,0.000018,0.0812,0.22,78.052,53
+Over,Portishead,Portishead, 1997,235533,4,0.632,0.712,1,-9.439,1,0.0434,0.453,0.000247,0.113,0.175,74.132,45
+Roads,Portishead,Dummy, 1994,303973,4,0.607,0.294,5,-11.836,1,0.0764,0.778,0.162,0.106,0.192,76.083,63
+Sour Times,Portishead,Dummy, 1994,252266,4,0.698,0.633,8,-6.68,0,0.0406,0.0508,0.272,0.264,0.55,94.085,63
+Wandering Star,Portishead,Dummy, 1994,293200,4,0.639,0.37,6,-10.883,1,0.0723,0.504,0.587,0.117,0.707,80.152,58
+Electric Uncle Sam,Primus,Antipop, 1995,175760,4,0.498,0.971,9,-5.158,0,0.0868,0.00884,0.552,0.193,0.542,117.673,45
+Jerry Was A Race Car Driver,Primus,Sailing The Seas Of Cheese, 1991,190840,4,0.508,0.887,1,-12.377,0,0.0661,0.0099,0.392,0.345,0.724,122.655,57
+John The Fisherman,Primus,They Can't All Be Zingers, 1990,216733,4,0.604,0.948,7,-3.093,1,0.0595,0.000816,0.00714,0.0446,0.861,115.132,54
+My Name Is Mud,Primus,Pork Soda, 1993,286933,4,0.714,0.869,11,-6.294,0,0.0565,0.00597,0.243,0.0959,0.439,98.511,56
+Wynona's Big Brown Beaver,Primus,Tales From The Punchbowl, 1995,261426,4,0.589,0.973,2,-6.394,1,0.0543,0.000345,0.103,0.161,0.576,129.473,53
+Everybody Hurts,R.E.M.,Automatic For The People, 1992,320266,3,0.467,0.324,2,-10.451,1,0.0255,0.615,0.0248,0.118,0.166,94.301,73
+Losing My Religion,R.E.M.,Out Of Time (25th Anniversary Edition), 1991,268426,4,0.666,0.855,9,-5.051,0,0.0295,0.179,0.0000012,0.0987,0.803,125.639,83
+Nightswimming,R.E.M.,Automatic For The People, 1992,258066,4,0.566,0.385,7,-11.272,1,0.0304,0.796,0.00000763,0.103,0.571,114.227,60
+Orange Crush - Remastered 2013,R.E.M.,Green - Remastered,1988,231640,4,0.568,0.701,9,-10.453,1,0.04,0.000613,0.00258,0.17,0.638,120.678,58
+Radio Free Europe,R.E.M.,Murmur, 1983,245200,4,0.367,0.685,4,-14.831,1,0.0464,0.00304,0.0478,0.109,0.854,154.953,46
+Shiny Happy People,R.E.M.,Out Of Time (25th Anniversary Edition), 1991,225786,4,0.452,0.909,9,-3.977,1,0.0366,0.0313,0.0603,0.23,0.805,124.623,72
+Stand,R.E.M.,In Time: The Best Of R.E.M. 1988-2003, 1989,192173,4,0.643,0.867,4,-5.262,1,0.0285,0.358,0,0.122,0.911,109.317,33
+The One I Love,R.E.M.,Document (R.E.M. No. 5), 1987,198000,4,0.515,0.656,2,-12.202,1,0.0296,0.000904,0.00000435,0.135,0.769,127.707,51
+"What’s The Frequency, Kenneth? - Remastered 2013",R.E.M.,Monster - Remastered,1994,240306,4,0.369,0.948,2,-3.923,1,0.0376,0.141,0.253,0.169,0.696,94.459,44
+Creep,Radiohead,Pablo Honey, 1992,238640,4,0.515,0.43,7,-9.935,1,0.0372,0.0097,0.000133,0.129,0.104,91.844,86
+Everything In Its Right Place,Radiohead,Kid A, 2000,251426,5,0.296,0.463,5,-11.412,0,0.0449,0.705,0.0482,0.0954,0.0629,123.943,69
+Fake Plastic Trees,Radiohead,The Bends, 1995,290706,4,0.463,0.229,2,-12.592,1,0.0297,0.167,0.0997,0.202,0.135,73.543,72
+High and Dry,Radiohead,The Bends, 1995,257480,4,0.419,0.383,4,-11.782,1,0.0256,0.0724,0.0176,0.0896,0.35,87.568,76
+Idioteque,Radiohead,Kid A, 2000,309093,3,0.615,0.931,3,-7.8,1,0.273,0.0352,0.0000223,0.0915,0.525,137.544,59
+Karma Police,Radiohead,OK Computer, 1997,264066,4,0.36,0.501,7,-9.129,1,0.0258,0.0638,0.0000932,0.172,0.324,74.807,77
+No Surprises,Radiohead,OK Computer, 1997,229120,4,0.255,0.393,5,-10.654,1,0.0278,0.0577,0.00361,0.113,0.118,76.426,82
+Paranoid Android,Radiohead,OK Computer, 1997,387213,4,0.251,0.848,5,-6.501,1,0.0579,0.0377,0.00591,0.0545,0.207,163.709,68
+Street Spirit (Fade Out),Radiohead,The Bends, 1995,253853,4,0.488,0.454,4,-11.544,0,0.0304,0.317,0.694,0.179,0.131,138.076,66
+"There, There",Radiohead,Hail To the Thief, 2003,323600,4,0.614,0.677,9,-8.317,0,0.0323,0.0193,0.52,0.108,0.716,126.482,60
+Bombtrack,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition), 1992,243453,4,0.459,0.926,4,-3.415,1,0.155,0.0239,0.0000193,0.183,0.569,151.534,65
+Bulls On Parade,Rage Against The Machine,Evil Empire, 1996,229466,4,0.412,0.919,5,-7.291,1,0.184,0.0124,0.0601,0.424,0.572,166.367,73
+Freedom,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition), 1996,366333,4,0.503,0.678,7,-5.552,1,0.103,0.000893,0.0134,0.348,0.501,112.277,54
+Guerrilla Radio,Rage Against The Machine,The Battle Of Los Angeles, 1999,206200,4,0.599,0.957,11,-5.764,1,0.188,0.0129,0.0000706,0.155,0.489,103.68,69
+How I Could Just Kill a Man,Rage Against The Machine,Renegades, 1992,244693,4,0.598,0.939,7,-3.663,1,0.105,0.00114,0.00000926,0.288,0.63,95.884,58
+Killing In The Name,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition), 1992,313573,4,0.466,0.833,7,-4.215,1,0.304,0.0266,0,0.0327,0.661,88.785,79
+No Shelter,Rage Against The Machine,Godzilla - The Album, 1998,243760,4,0.598,0.837,7,-8.852,1,0.0782,0.0108,0.000228,0.136,0.467,99.42,42
+People of the Sun,Rage Against The Machine,Evil Empire, 1999,150066,4,0.53,0.871,7,-6.361,1,0.302,0.00407,0.0207,0.272,0.706,93.046,63
+Testify,Rage Against The Machine,The Battle Of Los Angeles, 1999,210133,4,0.47,0.978,7,-5.399,1,0.0727,0.0261,0.0000109,0.356,0.503,117.906,62
+Wake Up,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition), 1992,363853,4,0.411,0.893,7,-3.646,1,0.139,0.00563,0.00967,0.149,0.513,170.407,62
+"Baby, I Love You",Ramones,End of the Century (Expanded 2005 Remaster), 1981,224560,4,0.735,0.653,8,-5.533,1,0.0269,0.202,0.000307,0.0802,0.93,107.779,58
+Beat on the Brat - 2016 Remaster,Ramones,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),1978,151960,4,0.481,0.88,4,-1.108,1,0.176,0.00305,0.642,0.13,0.961,156.859,52
+Blitzkrieg Bop,Ramones,Hey Ho Let's Go, 1976,133440,4,0.547,0.733,9,-6.558,1,0.0433,0.0103,0.131,0.117,0.962,176.198,53
+Do You Wanna Dance? - 2017 Remaster,Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),1978,115706,4,0.366,0.889,9,-2.408,1,0.0314,6.72E-05,0.000797,0.444,0.916,181.743,49
+I Wanna Be Sedated,Ramones,Road to Ruin (40th Anniversary Deluxe Edition), 1978,149786,4,0.56,0.965,11,-2.341,1,0.0409,0.121,0.00000623,0.169,0.964,162.825,69
+Judy Is a Punk - 2016 Remaster,Ramones,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),1976,92480,4,0.232,0.866,3,-1.38,1,0.0503,0.0801,0.0962,0.235,0.722,179.551,54
+Pet Sematary,Ramones,Brain Drain, 1989,210333,4,0.468,0.825,2,-12.853,0,0.0365,0.00159,0.000169,0.143,0.661,148.295,50
+Rock 'n' Roll High School - 2002 Remaster,Ramones,End of the Century (Expanded 2005 Remaster),1979,137400,4,0.499,0.87,0,-4.431,1,0.126,0.0183,0,0.0512,0.893,188.853,51
+Sheena Is a Punk Rocker - 2017 Remaster,Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),1977,169920,4,0.42,0.965,0,-1.986,1,0.0403,0.0981,0.000335,0.0784,0.846,176.243,58
+Teenage Lobotomy - 2017 Remaster,Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),1977,121413,3,0.494,0.849,9,-2.306,1,0.0397,0.00092,0.0043,0.0598,0.97,184.666,42
+By the Way,Red Hot Chili Peppers,By the Way (Deluxe Edition), 2002,216933,4,0.451,0.97,0,-4.938,1,0.107,0.0264,0.00355,0.102,0.198,122.444,77
+Californication,Red Hot Chili Peppers,Californication (Deluxe Edition), 1999,329733,4,0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,84
+Can't Stop,Red Hot Chili Peppers,By the Way (Deluxe Edition), 2002,269000,4,0.618,0.938,9,-3.442,1,0.0456,0.0179,0,0.167,0.875,91.455,84
+Dani California,Red Hot Chili Peppers,Stadium Arcadium, 2006,282160,4,0.556,0.913,0,-2.36,1,0.0437,0.0193,0.00000859,0.346,0.73,96.184,79
+Give It Away,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition), 1991,282906,4,0.666,0.936,7,-9.919,1,0.0476,0.00244,0.086,0.153,0.776,91.577,73
+Otherside,Red Hot Chili Peppers,Californication (Deluxe Edition), 1999,255373,4,0.458,0.795,0,-3.265,1,0.0574,0.00316,0.000202,0.0756,0.513,123.229,81
+Scar Tissue,Red Hot Chili Peppers,Californication (Deluxe Edition), 1999,215906,4,0.595,0.717,0,-4.803,1,0.0295,0.0779,0.00274,0.108,0.547,88.969,82
+Snow (Hey Oh),Red Hot Chili Peppers,Stadium Arcadium, 2006,334666,4,0.427,0.9,11,-3.674,1,0.0499,0.116,0.0000175,0.119,0.599,104.655,79
+Soul to Squeeze,Red Hot Chili Peppers,Greatest Hits, 1993,289533,4,0.663,0.546,5,-5.234,1,0.0269,0.0322,0.000572,0.107,0.656,88.171,71
+Under the Bridge,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition), 1992,264306,4,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,83
+Dragula,Rob Zombie,Hellbilly Deluxe, 1998,222826,4,0.59,0.963,0,-6.489,0,0.0676,8.75E-05,0.000105,0.0781,0.586,125.033,78
+Living Dead Girl,Rob Zombie,Hellbilly Deluxe, 1998,201400,4,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,70
+More Than This,Roxy Music,Avalon, 1982,270651,4,0.653,0.665,6,-7.806,1,0.025,0.0507,0.0461,0.139,0.755,128.503,68
+(I'm Not Your) Stepping Stone,Sex Pistols,The Great Rock 'N' Roll Swindle, 1978,186360,4,0.426,0.938,2,-9.085,1,0.0877,0.0366,0,0.119,0.328,138.447,26
+Anarchy in the U.K.,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols", 1976,211973,4,0.323,0.978,5,-3.841,1,0.118,0.0422,0.00019,0.201,0.168,134.222,51
+Did You No Wrong - Remastered 2012,Sex Pistols,The Original Recordings,1978,190720,4,0.421,0.948,4,-8.082,1,0.0745,0.00348,0.0511,0.112,0.856,141.971,12
+EMI,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols", 1977,193653,4,0.197,0.954,10,-3.687,1,0.156,0.00502,0.0985,0.122,0.475,145.102,30
+God Save the Queen,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols", 1977,200080,4,0.274,0.908,9,-5.419,1,0.0691,0.00103,0.00219,0.154,0.483,148.246,52
+Holidays in the Sun,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols", 1977,202800,4,0.209,0.979,7,-4.791,1,0.213,0.143,0.0000695,0.319,0.219,147.9,41
+Liar,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols", 1979,161533,4,0.343,0.962,2,-4.984,1,0.0612,0.00632,0.0000592,0.0852,0.312,149.067,32
+No Feelings,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols", 1977,171173,4,0.286,0.961,5,-5.743,1,0.18,0.0315,0.00000391,0.3,0.592,164.291,36
+Pretty Vacant,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols", 1977,198160,4,0.258,0.932,2,-5.194,1,0.0702,0.0467,0.00000809,0.142,0.334,145.582,44
+Submission,Sex Pistols,Spunk (Bonus Track Edition), 1977,256853,4,0.533,0.799,9,-6.4,1,0.0343,0.00769,0,0.544,0.681,117.614,19
+Ball and Chain,Social Distortion,Social Distortion, 1990,343066,4,0.435,0.911,1,-9.2,1,0.0428,0.0365,0.00119,0.152,0.37,134.949,51
+Cold Feelings,Social Distortion,Somewhere Between Heaven And Hell, 1990,209506,4,0.364,0.98,10,-7.002,0,0.0392,0.029,0.00000274,0.119,0.408,173.338,40
+Don't Drag Me Down,Social Distortion,White Light White Heat White Trash, 1996,230066,4,0.328,0.957,8,-2.568,1,0.0787,4.7E-06,0.437,0.0551,0.515,181.957,50
+Machine Gun Blues,Social Distortion,Hard Times And Nursery Rhymes (Deluxe Edition), 2011,213173,4,0.207,0.961,2,-3.913,1,0.0919,0.132,0.000104,0.335,0.118,173.971,46
+Mommy's Little Monster,Social Distortion,Mommy's Little Monster, 1983,212697,4,0.151,0.851,2,-8.592,1,0.0496,0.000248,0,0.147,0.471,179.077,45
+Prison Bound,Social Distortion,Prison Bound, 1988,324933,4,0.375,0.959,6,-6.278,1,0.0585,0.000781,0.00000212,0.13,0.383,128.868,40
+Ring of Fire,Social Distortion,Social Distortion, 1990,230773,4,0.336,0.942,5,-9.252,0,0.0492,0.0114,0.0291,0.0833,0.703,179.874,52
+Story of My Life,Social Distortion,Social Distortion, 1990,346333,4,0.328,0.884,6,-7.982,1,0.0338,0.0676,0.0166,0.327,0.686,201.868,58
+When The Angels Sing,Social Distortion,White Light White Heat White Trash, 2004,254106,4,0.46,0.924,5,-3.569,1,0.0383,2.42E-05,0.00161,0.233,0.449,122.936,36
+100%,Sonic Youth,Dirty, 1992,149360,4,0.448,0.88,7,-9.894,1,0.0581,0.00146,0.005,0.41,0.404,117.033,46
+Bull In The Heather,Sonic Youth,"Experimental Jet Set, Trash And No Star", 1994,184866,4,0.642,0.619,7,-12.73,1,0.0378,0.103,0.32,0.238,0.423,129.043,50
+Candle (Album Version),Sonic Youth,Daydream Nation (Deluxe Edition), 1992,298933,4,0.372,0.789,2,-10.753,0,0.039,0.000203,0.437,0.105,0.142,149.569,28
+Dirty Boots,Sonic Youth,Goo, 1990,328560,4,0.314,0.665,11,-13.868,0,0.039,0.208,0.216,0.0751,0.182,141.906,48
+Drunken Butterfly,Sonic Youth,Dirty, 1992,184240,4,0.336,0.958,11,-5.187,0,0.12,0.00155,0.00483,0.0924,0.359,125.979,32
+Kool Thing,Sonic Youth,Goo, 1990,246333,4,0.262,0.82,7,-11.621,1,0.0428,0.0103,0.0914,0.101,0.254,155.197,56
+Mary-Christ,Sonic Youth,Goo, 1990,190933,4,0.299,0.891,6,-11.708,1,0.0838,0.165,0.162,0.0569,0.306,173.566,36
+Schizophrenia,Sonic Youth,Sister, 1987,278400,4,0.356,0.696,2,-11.461,1,0.0366,0.19,0.867,0.104,0.562,134.66,51
+Starpower,Sonic Youth,Evol, 1987,288573,4,0.31,0.841,11,-11.678,1,0.0452,0.00802,0.7,0.0966,0.415,134.928,34
+Teen Age Riot (Album Version),Sonic Youth,Daydream Nation (Deluxe Edition), 1988,417800,4,0.286,0.907,7,-9.67,1,0.0374,0.000277,0.202,0.0837,0.746,156.395,58
+Black Hole Sun,Soundgarden,Superunknown (Deluxe Edition), 1994,318586,4,0.35,0.828,6,-5.373,1,0.041,0.000217,0.000161,0.0774,0.147,105.435,78
+Blow Up The Outside World,Soundgarden,Down On The Upside, 1996,345666,4,0.33,0.529,9,-10.043,1,0.0358,0.000807,0.214,0.126,0.148,140.156,58
+Burden In My Hand,Soundgarden,Down On The Upside, 1996,290106,4,0.319,0.803,10,-8.928,1,0.0394,0.00534,0.0126,0.177,0.589,183.031,61
+Fell On Black Days,Soundgarden,Superunknown (Deluxe Edition), 1994,283026,3,0.574,0.739,4,-5.745,0,0.0271,0.00152,0.000328,0.141,0.514,101.069,68
+Jesus Christ Pose - Remastered 2016,Soundgarden,Badmotorfinger (25th Anniversary Remaster),1991,351360,4,0.341,0.965,9,-5.976,1,0.107,6.66E-06,0.723,0.317,0.273,134.328,49
+My Wave,Soundgarden,Superunknown (Deluxe Edition), 1994,312613,5,0.509,0.95,9,-4.535,0,0.061,0.000132,0.00302,0.0937,0.705,126.591,48
+Outshined - Remastered 2016,Soundgarden,Badmotorfinger (25th Anniversary Remaster),1991,311000,4,0.485,0.841,2,-6.068,0,0.0307,0.000173,0.00686,0.125,0.551,94.867,62
+Rusty Cage - Remastered 2016,Soundgarden,Badmotorfinger (25th Anniversary Remaster),1991,266200,4,0.307,0.917,9,-7.599,1,0.0977,1.65E-05,0.00044,0.0566,0.266,101.879,61
+Spoonman,Soundgarden,Superunknown (20th Anniversary), 1994,246920,4,0.457,0.902,7,-5.624,1,0.0313,2.17E-05,0.196,0.258,0.834,92.711,67
+The Day I Tried To Live,Soundgarden,Superunknown (Deluxe Edition), 1994,320106,4,0.472,0.752,0,-6.051,1,0.0555,0.000164,0.181,0.0903,0.305,133.248,58
+And so I Know,Stone Temple Pilots,Tiny Music...Songs from the Vatican Gift Shop, 1996,237866,4,0.576,0.311,9,-13.101,1,0.0268,0.757,0.0271,0.109,0.361,107.261,41
+Big Empty,Stone Temple Pilots,Thank You, 1994,293986,4,0.335,0.716,7,-7.023,1,0.0406,0.0346,0,0.107,0.3,121.791,42
+Creep,Stone Temple Pilots,Thank You, 1993,332626,4,0.659,0.563,4,-6.32,0,0.0287,0.00431,0.0155,0.11,0.161,107.745,57
+Days of the Week,Stone Temple Pilots,Shangri-LA DEE DA, 2001,155253,3,0.568,0.879,2,-4.694,1,0.0452,5.54E-05,0.0000181,0.13,0.794,115.628,43
+Interstate Love Song,Stone Temple Pilots,Thank You, 1994,193613,4,0.214,0.947,4,-5.053,1,0.0509,0.000553,0.00322,0.238,0.484,170.748,53
+Plush,Stone Temple Pilots,Thank You, 1993,310400,4,0.417,0.913,7,-6.049,0,0.0441,0.00248,0.00000109,0.166,0.439,144.591,58
+Plush - 2017 Remaster,Stone Temple Pilots,Core (Super Deluxe Edition),1993,313946,4,0.426,0.94,7,-5.279,0,0.0424,0.00671,0.00000172,0.14,0.466,144.472,65
+Trippin' on a Hole in a Paper Heart,Stone Temple Pilots,Tiny Music...Songs from the Vatican Gift Shop, 1996,175920,4,0.47,0.989,7,-3.857,1,0.0632,0.000386,0.00161,0.157,0.446,106.479,62
+Vasoline,Stone Temple Pilots,Thank You, 1994,174760,4,0.296,0.989,10,-4.945,1,0.111,0.00141,0.000167,0.0911,0.324,168.894,43
+Wicked Garden,Stone Temple Pilots,Thank You, 1992,245280,4,0.209,0.945,2,-4.009,1,0.0675,1.04E-05,0.0000195,0.107,0.376,155.328,35
+40oz. To Freedom,Sublime,40oz. To Freedom, 1992,183000,4,0.688,0.489,0,-7.848,1,0.0378,0.00053,0.00292,0.143,0.364,94.27,61
+"April 29, 1992 (Miami)",Sublime,Sublime, 1996,233266,4,0.746,0.665,2,-6.106,1,0.0963,0.00532,0.000804,0.155,0.751,79.022,56
+Badfish,Sublime,40oz. To Freedom, 1992,185440,4,0.795,0.538,2,-5.648,1,0.051,0.0966,0.000111,0.385,0.645,92.796,52
+Boss D.J.,Sublime,Robbin' The Hood, 1992,171693,4,0.586,0.261,7,-7.107,1,0.0485,0.741,0,0.168,0.559,126.057,50
+Caress Me Down,Sublime,Sublime, 1996,211560,4,0.753,0.484,9,-7.519,1,0.258,0.0149,0,0.135,0.597,79.668,63
+Doin' Time,Sublime,Sublime, 1996,253840,4,0.708,0.757,7,-5.121,1,0.0791,0.0362,0,0.17,0.552,80.976,70
+Santeria,Sublime,Sublime, 1996,182746,4,0.682,0.765,1,-5.021,0,0.0395,0.0268,0.0000342,0.188,0.567,90.807,80
+Smoke Two Joints,Sublime,40oz. To Freedom, 1992,173426,4,0.761,0.687,7,-6.185,1,0.131,0.00469,0.00532,0.245,0.316,95.089,65
+What I Got,Sublime,Sublime, 1996,170906,4,0.804,0.696,7,-7.47,1,0.0899,0.00877,0.000985,0.314,0.657,95.721,77
+Wrong Way,Sublime,Sublime, 1996,136146,4,0.69,0.681,9,-5.653,1,0.0379,0.0623,0,0.137,0.911,75.034,71
+Aerials,System Of A Down,Toxicity, 2001,235053,4,0.364,0.922,0,-4.217,0,0.0567,0.000915,0.0346,0.0697,0.227,79.342,79
+B.Y.O.B.,System Of A Down,Mezmerize, 2005,255466,4,0.538,0.981,1,-2.688,0,0.14,0.00662,0,0.219,0.711,101.414,76
+Boom!,System Of A Down,Steal This Album!, 2002,134906,4,0.476,0.871,1,-2.672,1,0.041,0.000395,0.0244,0.118,0.302,154.568,52
+Bounce,System Of A Down,Toxicity, 2002,114226,4,0.46,0.977,0,-3.853,0,0.0394,0.000245,0.201,0.283,0.89,92.666,60
+Chop Suey!,System Of A Down,Toxicity, 2001,210240,4,0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,84
+Hypnotize,System Of A Down,Hypnotize, 2005,189440,4,0.274,0.92,6,-4.096,1,0.0489,0.0303,0.000412,0.115,0.0397,154.016,69
+Soldier Side,System Of A Down,Hypnotize, 2005,220266,4,0.373,0.818,1,-1.691,0,0.0352,0.264,0.00000242,0.119,0.176,76.474,61
+Spiders,System Of A Down,System Of A Down, 1998,215440,4,0.46,0.54,5,-5.132,1,0.0381,0.0324,0.0168,0.326,0.0506,137.855,68
+Sugar,System Of A Down,System Of A Down, 1998,153800,4,0.451,0.889,1,-2.693,1,0.261,0.00167,0.00215,0.258,0.586,131.073,74
+Toxicity,System Of A Down,Toxicity, 2001,218933,3,0.413,0.873,8,-4.151,1,0.0536,0.000264,0.00249,0.204,0.48,116.68,83
+Burning Down the House,Talking Heads,Burning Down the House / I Get Wild / Wild Gravity, 1983,241920,4,0.779,0.87,5,-13.141,0,0.0574,0.00644,0.0107,0.0399,0.555,102.689,65
+Girlfriend Is Better,Talking Heads,Speaking in Tongues, 1983,345373,4,0.866,0.674,7,-10.906,1,0.0991,0.158,0.00053,0.0522,0.967,118.576,40
+Heaven,Talking Heads,Fear of Music, 1983,240813,4,0.596,0.42,7,-12.9,1,0.0256,0.095,0.245,0.252,0.326,107.089,35
+Life During Wartime,Talking Heads,Fear of Music, 1979,221066,4,0.804,0.729,9,-15.419,1,0.0347,0.0554,0.363,0.031,0.969,133.017,40
+Once in a Lifetime - 2005 Remaster,Talking Heads,Remain in Light (Deluxe Version),1980,259906,4,0.644,0.919,2,-6.289,1,0.0561,0.181,0.134,0.622,0.871,117.459,66
+Psycho Killer - 2005 Remaster,Talking Heads,Talking Heads '77 (Deluxe Version),1977,261413,4,0.721,0.521,2,-8.123,1,0.0613,0.0708,0.00545,0.127,0.942,123.118,74
+Road to Nowhere,Talking Heads,Little Creatures, 1985,259106,4,0.661,0.713,2,-7.825,1,0.0296,0.0361,0.0000227,0.153,0.632,110.364,57
+Take Me to the River,Talking Heads,More Songs About Buildings and Food, 1978,302893,4,0.66,0.389,2,-11.271,1,0.027,0.187,0.0131,0.0779,0.841,99.705,44
+This Must Be the Place (Naive Melody) - 2005 Remaster,Talking Heads,Speaking in Tongues (Deluxe Version),1983,296146,4,0.942,0.641,7,-10.15,1,0.0333,0.331,0.179,0.028,0.966,114.443,73
+Wild Wild Life,Talking Heads,True Stories, 1986,219826,4,0.649,0.714,9,-11.268,1,0.029,0.0153,0,0.334,0.964,137.478,51
+Back To Me,The All-American Rejects,When The World Comes Down, 2005,268880,4,0.402,0.617,9,-5.766,1,0.0287,0.00739,0.00000937,0.158,0.374,173.747,29
+Can't Take It,The All-American Rejects,Move Along, 2005,172586,4,0.57,0.41,4,-6.332,0,0.0292,0.675,0,0.184,0.343,115.993,27
+Change Your Mind,The All-American Rejects,Move Along, 2005,220040,4,0.504,0.835,5,-4.502,1,0.035,0.000414,0,0.127,0.578,149.764,29
+Dirty Little Secret,The All-American Rejects,Move Along, 2005,193653,4,0.465,0.954,10,-4.251,1,0.044,0.000346,0.00000538,0.573,0.458,143.85,71
+Gives You Hell,The All-American Rejects,When The World Comes Down, 2008,213106,4,0.718,0.691,4,-6.44,1,0.0387,0.0159,0,0.0627,0.552,100.008,71
+I Wanna,The All-American Rejects,When The World Comes Down, 2005,208600,4,0.415,0.913,7,-5.361,1,0.0482,0.000543,0.0000302,0.284,0.427,164.289,51
+It Ends Tonight,The All-American Rejects,Move Along, 2005,244826,4,0.454,0.636,0,-4.731,1,0.0273,0.00228,0,0.154,0.313,87.89,59
+Move Along,The All-American Rejects,Move Along, 2005,238880,4,0.518,0.916,3,-3.858,1,0.0454,0.000148,0,0.291,0.646,109.864,69
+Night Drive,The All-American Rejects,Move Along, 2005,203880,4,0.595,0.951,2,-3.93,1,0.0571,0.00386,0.00000165,0.04,0.787,147.846,34
+"Swing, Swing",The All-American Rejects,The All-American Rejects, 2004,233266,4,0.553,0.717,7,-5.857,1,0.0318,6.48E-05,0.128,0.0385,0.318,127.947,66
+Channel Z,The B-52's,Cosmic Thing, 1989,290066,4,0.654,0.752,1,-7.45,1,0.0296,0.00125,0.0000556,0.0142,0.739,131.392,39
+Dance This Mess Around,The B-52's,The B-52's, 1979,276560,4,0.608,0.712,3,-7.957,1,0.0821,0.0168,0.000369,0.129,0.542,161.072,44
+Deadbeat Club,The B-52's,Cosmic Thing, 1989,296000,4,0.711,0.813,1,-6.068,1,0.0355,0.0215,0.000126,0.272,0.933,126.988,40
+Love Shack,The B-52's,Cosmic Thing, 1989,320680,4,0.701,0.803,5,-6.786,0,0.0545,0.0544,0.00000154,0.7,0.903,133.608,70
+Mesopotamia,The B-52's,Party Mix / Mesopotamia, 1982,230440,4,0.873,0.797,0,-6.773,1,0.0403,0.0471,0.29,0.139,0.971,119.164,33
+Private Idaho,The B-52's,Wild Planet, 1980,216360,4,0.551,0.882,2,-6.808,1,0.0454,0.00724,0.0000113,0.322,0.888,166.403,55
+Roam,The B-52's,Cosmic Thing, 1989,295133,4,0.636,0.939,9,-5.551,1,0.0837,0.0485,0.00000669,0.271,0.694,134.937,59
+Rock Lobster,The B-52's,The B-52's, 1978,409400,4,0.592,0.882,8,-8.315,1,0.0468,0.00884,0.0155,0.0506,0.442,92.157,59
+Wig,The B-52's,Bouncing off the Satellites, 1989,261893,4,0.595,0.939,0,-8.014,1,0.0507,0.0036,0,0.161,0.801,124.124,23
+Cannonball,The Breeders,Last Splash, 1993,213693,4,0.502,0.758,3,-9.76,1,0.0407,0.00915,0.783,0.284,0.729,112.499,64
+Divine Hammer,The Breeders,Last Splash, 1993,161360,4,0.344,0.561,3,-13.642,1,0.032,0.089,0.814,0.132,0.632,143.698,46
+Drivin' on 9,The Breeders,Last Splash, 1993,202266,4,0.63,0.392,7,-13.652,1,0.0295,0.487,0.534,0.264,0.537,120.799,48
+Iris,The Breeders,Pod, 1993,209360,4,0.363,0.186,11,-20.125,1,0.0301,0.0507,0.571,0.25,0.0754,88.181,30
+No Aloha,The Breeders,Last Splash, 1993,127226,4,0.291,0.536,10,-9.166,1,0.0321,0.0798,0.269,0.1,0.448,107.41,49
+Off You,The Breeders,Title Tk, 1993,295666,4,0.464,0.102,10,-18.76,1,0.0319,0.965,0.0277,0.108,0.0642,81.165,45
+Safari,The Breeders,Safari, 1993,211906,4,0.443,0.715,1,-12.456,1,0.033,0.00746,0.353,0.151,0.639,114.491,36
+Saints,The Breeders,Last Splash, 1993,152200,4,0.491,0.662,11,-11.987,1,0.0324,0.0323,0.283,0.47,0.824,114.737,45
+Drive,The Cars,Heartbeat City, 1984,234493,5,0.582,0.606,6,-9.961,1,0.0289,0.124,0.00139,0.151,0.504,111.441,65
+Good Times Roll,The Cars,The Cars, 1978,225853,4,0.607,0.662,4,-9.456,1,0.0278,0.0951,0.0000822,0.125,0.629,107.646,61
+Just What I Needed,The Cars,The Cars, 1978,225626,4,0.62,0.579,4,-9.307,1,0.0473,0.0152,0.000064,0.0858,0.691,127.215,70
+Let's Go,The Cars,Candy-O, 1979,213173,4,0.651,0.83,2,-8.785,1,0.0316,0.00824,0.0429,0.0837,0.917,131.282,59
+Magic,The Cars,Heartbeat City, 1984,237093,4,0.683,0.806,9,-7.574,1,0.042,0.125,0.000548,0.191,0.962,118.032,47
+My Best Friend's Girl,The Cars,The Cars, 1978,223253,4,0.799,0.608,5,-8.193,1,0.0411,0.0854,0.0138,0.102,0.963,121.916,62
+Shake It Up,The Cars,Shake It Up, 1981,215440,4,0.692,0.74,0,-7.466,1,0.0329,0.0723,0.0000883,0.136,0.864,147.274,47
+Since You're Gone - 2017 Remaster,The Cars,Shake It Up (Expanded Edition),1981,211306,4,0.611,0.664,0,-7.067,1,0.0309,0.0692,0.00333,0.113,0.554,95.976,44
+Tonight She Comes,The Cars,Complete Greatest Hits, 1985,236733,4,0.656,0.837,5,-7.984,1,0.0264,0.053,0.0137,0.104,0.929,141.679,43
+You Might Think,The Cars,Heartbeat City (Expanded Edition), 1984,184717,4,0.728,0.855,2,-6.031,1,0.0333,0.109,0.000576,0.113,0.971,133.887,63
+Under the Milky Way,The Church,Starfish, 1988,297600,4,0.578,0.583,9,-13.416,0,0.0269,0.0548,0.199,0.125,0.519,135.986,59
+Clampdown,The Clash,London Calling (Expanded Edition), 1979,229133,4,0.678,0.683,11,-7.995,0,0.111,0.0397,0.0000813,0.287,0.833,145.345,30
+I Fought the Law,The Clash,Hits Back, 1979,163240,4,0.526,0.9,2,-6.815,1,0.0545,0.00539,0.0000412,0.14,0.883,151.279,57
+London Calling,The Clash,London Calling (Expanded Edition), 1979,199733,4,0.654,0.799,0,-6.92,1,0.0501,0.0706,0,0.0844,0.755,133.731,56
+Lost in the Supermarket - Remastered,The Clash,London Calling (Remastered),1979,226946,4,0.608,0.634,4,-11.24,1,0.0727,0.0568,0.00615,0.116,0.84,147.515,58
+Rock the Casbah - Remastered,The Clash,Combat Rock (Remastered),1982,222426,4,0.797,0.872,9,-6.727,0,0.0575,0.291,0,0.284,0.866,129.885,73
+Rudie Can't Fail,The Clash,London Calling (Expanded Edition), 1979,209133,4,0.642,0.706,6,-8.302,0,0.0476,0.00183,0.00000105,0.156,0.702,96.989,31
+Should I Stay or Should I Go - Remastered,The Clash,Combat Rock (Remastered),1982,188986,4,0.743,0.836,2,-6.465,1,0.116,0.0804,0,0.384,0.82,113.375,82
+The Guns of Brixton,The Clash,London Calling (Expanded Edition), 1979,189666,4,0.745,0.604,7,-9.311,1,0.0949,0.00254,0.0492,0.116,0.648,96.514,39
+Train in Vain (Stand by Me) - Remastered,The Clash,London Calling (Remastered),1979,194666,4,0.762,0.722,2,-8.712,1,0.0428,0.0922,0.000368,0.132,0.966,122.769,64
+White Riot - Remastered,The Clash,The Clash (Remastered),1977,116440,4,0.168,0.974,2,-4.862,1,0.0655,0.000598,0.783,0.295,0.609,205.278,52
+Animal Instinct,The Cranberries,Bury The Hatchet, 1999,211066,4,0.61,0.85,4,-5.411,0,0.0307,0.089,0,0.256,0.604,132.174,64
+Dreams,The Cranberries,"Everybody Else Is Doing It, So Why Can't We?", 1992,271560,4,0.551,0.645,4,-13.093,1,0.0354,0.0031,0.00376,0.421,0.508,128.665,78
+Linger,The Cranberries,"Everybody Else Is Doing It, So Why Can't We?", 1993,274706,4,0.439,0.434,7,-14.918,1,0.0265,0.0783,0.0000518,0.14,0.204,94.843,84
+Ode To My Family,The Cranberries,No Need To Argue (The Complete Sessions 1994-1995), 1994,271533,4,0.366,0.443,7,-10.11,1,0.0235,0.0472,0.00000144,0.344,0.149,93.951,72
+Promises,The Cranberries,Bury The Hatchet, 1999,327573,4,0.501,0.864,4,-3.231,0,0.0502,0.0628,0,0.169,0.247,130.061,57
+Ridiculous Thoughts,The Cranberries,No Need To Argue (The Complete Sessions 1994-1995), 1994,271200,4,0.325,0.701,9,-9.437,0,0.0367,0.00367,0.00000843,0.095,0.232,101.629,49
+Salvation,The Cranberries,To The Faithful Departed, 1996,142906,4,0.341,0.977,10,-4.525,1,0.0861,0.000553,0.0000141,0.317,0.889,169.082,56
+When You're Gone,The Cranberries,To The Faithful Departed, 1996,296200,3,0.454,0.524,3,-7.128,1,0.0267,0.351,0.0000432,0.0691,0.348,186.762,62
+You And Me,The Cranberries,Bury The Hatchet, 2001,215533,4,0.496,0.749,0,-7.042,0,0.0278,0.248,0,0.218,0.663,96.15,51
+Zombie,The Cranberries,No Need To Argue (The Complete Sessions 1994-1995), 1994,306440,4,0.309,0.649,7,-8.994,1,0.035,0.0158,0.00591,0.367,0.312,166.915,83
+A Forest - 2006 Remaster,The Cure,Seventeen Seconds (Deluxe Edition),1980,354933,4,0.633,0.62,0,-11.271,1,0.0648,0.34,0.605,0.0977,0.421,81.117,55
+Boys Don't Cry,The Cure,Greatest Hits, 1980,157053,4,0.463,0.853,11,-6.24,0,0.0706,0.0101,0,0.107,0.69,169.574,57
+Close to Me,The Cure,Greatest Hits, 1985,220533,4,0.67,0.482,11,-12.511,1,0.145,0.273,0.134,0.318,0.947,184.924,39
+Fascination Street,The Cure,Galore, 1989,260093,4,0.543,0.89,0,-4.748,0,0.0453,0.00595,0.656,0.128,0.573,100.069,25
+Friday I'm in Love (Strangelove Mix) - 2022 Remaster,The Cure,Wish (30th Anniversary Deluxe Edition),1992,329466,4,0.639,0.824,8,-6.451,1,0.0281,0.00468,0.00372,0.276,0.647,139.003,18
+In Between Days,The Cure,Greatest Hits, 1985,178066,4,0.525,0.914,9,-3.377,1,0.0357,0.0412,0.0126,0.212,0.7,142.503,35
+Just like Heaven,The Cure,"Kiss Me, Kiss Me, Kiss Me", 1987,212000,4,0.43,0.971,9,-3.845,1,0.0524,0.0271,0.0000216,0.185,0.764,151.219,69
+Lovesong,The Cure,Greatest Hits, 1989,208333,4,0.586,0.868,9,-4.302,0,0.0297,0.347,0.316,0.174,0.736,139.943,51
+Lullaby,The Cure,Greatest Hits, 1989,247613,4,0.725,0.69,9,-7.42,1,0.0363,0.151,0.369,0.0791,0.602,94.023,41
+Pictures of You,The Cure,Galore, 1989,288026,4,0.458,0.746,9,-6.129,1,0.0315,0.00393,0.0135,0.102,0.624,172.781,45
+Do You Realize??,The Flaming Lips,Yoshimi Battles the Pink Robots, 2002,213173,4,0.464,0.797,0,-5.244,1,0.0333,0.006,0.000304,0.392,0.547,129.964,61
+Ego Tripping at the Gates of Hell,The Flaming Lips,Yoshimi Battles the Pink Robots, 2003,271466,4,0.589,0.848,5,-6.954,1,0.0516,0.0332,0.0648,0.0486,0.854,87.553,42
+She Don't Use Jelly,The Flaming Lips,Transmissions From the Satellite Heart, 1993,222278,4,0.33,0.556,7,-11.494,1,0.0796,0.207,0.0000439,0.315,0.506,173.828,54
+Better Days,The Goo Goo Dolls,Let Love In, 2005,213266,4,0.486,0.595,7,-5.009,1,0.0302,0.00212,0.000264,0.0953,0.331,113.276,53
+Black Balloon,The Goo Goo Dolls,Dizzy up the Girl, 1998,249533,4,0.339,0.625,1,-8.57,1,0.028,0.057,0.000102,0.229,0.334,104.68,60
+Broadway,The Goo Goo Dolls,Dizzy up the Girl, 1998,238533,4,0.527,0.878,11,-5.704,1,0.0424,0.000555,0,0.0852,0.757,132.791,54
+Come to Me,The Goo Goo Dolls,Magnetic, 2005,225333,4,0.589,0.669,0,-4.835,1,0.0253,0.0505,0,0.131,0.421,92.06,53
+Here Is Gone,The Goo Goo Dolls,Gutterflower, 2002,238173,4,0.338,0.685,1,-5.178,1,0.0322,0.00052,0.000512,0.109,0.221,102.192,57
+Iris,The Goo Goo Dolls,Dizzy up the Girl, 1998,289533,3,0.315,0.715,11,-8.072,0,0.0362,0.00125,0.00000797,0.0942,0.497,155.925,88
+Name,The Goo Goo Dolls,A Boy Named Goo, 1995,270000,4,0.464,0.701,9,-5.943,1,0.0341,0.0691,0.00182,0.0766,0.407,73.97,69
+Slide,The Goo Goo Dolls,Dizzy up the Girl, 1998,212066,4,0.395,0.843,8,-4.476,1,0.0374,0.00483,0,0.0404,0.481,112.423,74
+Sympathy,The Goo Goo Dolls,Gutterflower, 2005,178146,4,0.546,0.631,8,-5.757,1,0.0283,0.25,0,0.123,0.569,129.556,62
+All These Things That I've Done,The Killers,Hot Fuss, 2004,301866,4,0.539,0.702,6,-7.291,1,0.0436,0.00245,0.0000237,0.117,0.206,118.106,72
+For Reasons Unknown,The Killers,Sam's Town, 2006,212266,4,0.504,0.884,3,-4.214,1,0.0366,0.000458,0.0399,0.108,0.516,140.398,62
+Human,The Killers,Day & Age (Bonus Tracks), 2008,245373,4,0.557,0.8,10,-8.477,1,0.0601,0.00132,0.0012,0.0906,0.582,135.47,75
+Mr. Brightside,The Killers,Hot Fuss, 2004,222973,4,0.352,0.911,1,-5.23,1,0.0747,0.00121,0,0.0995,0.236,148.033,87
+Read My Mind,The Killers,Sam's Town, 2006,246840,4,0.543,0.917,1,-3.391,1,0.0444,0.00572,0.0000776,0.104,0.329,132.246,70
+Runaways,The Killers,Battle Born, 2012,243786,4,0.409,0.837,1,-4.043,1,0.0406,0.00116,0.00651,0.0855,0.199,121.757,58
+Smile Like You Mean It,The Killers,Hot Fuss, 2004,234106,4,0.346,0.965,3,-4.255,0,0.146,0.000461,0.012,0.214,0.384,125.043,68
+Somebody Told Me,The Killers,Hot Fuss, 2004,197200,4,0.497,0.97,10,-4.851,0,0.0836,9.04E-05,0.000674,0.101,0.689,138.081,80
+Spaceman,The Killers,Day & Age (Bonus Tracks), 2008,284546,4,0.525,0.904,4,-5.488,1,0.0532,0.00257,0.000648,0.12,0.803,151.988,62
+When You Were Young,The Killers,Sam's Town, 2006,220426,4,0.467,0.988,11,-3.313,1,0.112,0.000152,0.0484,0.28,0.321,130.433,77
+Come Out and Play,The Offspring,Smash, 1989,197800,4,0.519,0.77,7,-8.788,1,0.0809,0.0675,0.00000348,0.0762,0.921,158.29,72
+Gone Away - 1997,The Offspring,Ixnay On The Hombre, 1997,268826,4,0.45,0.945,3,-3.995,1,0.0806,0.012,0.00687,0.0683,0.294,111.342,69
+Hit That,The Offspring,Splinter, 2003,169413,4,0.704,0.809,4,-3.045,1,0.0321,0.0233,0,0.0596,0.962,131.952,66
+I Choose,The Offspring,Ixnay On The Hombre, 2003,234666,4,0.539,0.957,2,-3.207,1,0.103,0.141,0.0000562,0.396,0.477,120.481,41
+Original Prankster,The Offspring,Conspiracy Of One, 2000,220946,4,0.664,0.877,2,-4.251,1,0.0334,0.000542,0.0000295,0.284,0.961,146.804,62
+Pretty Fly (For A White Guy),The Offspring,Americana, 1998,188666,4,0.723,0.895,11,-3.707,0,0.102,0.088,0,0.0717,0.963,143.373,76
+Self Esteem,The Offspring,Smash, 1998,257826,4,0.488,0.862,0,-7.595,1,0.0476,0.0204,0,0.359,0.706,104.56,77
+The Kids Aren't Alright,The Offspring,Americana, 1998,180160,4,0.523,0.943,1,-4.203,1,0.0337,0.00704,0.0000381,0.0579,0.766,99.607,82
+Want You Bad,The Offspring,Conspiracy Of One, 2000,202573,4,0.491,0.966,4,-4.28,1,0.0538,5.59E-05,0,0.307,0.614,105.544,73
+Why Don't You Get A Job,The Offspring,Americana, 1998,172466,4,0.766,0.882,5,-4.478,1,0.0719,0.0674,0.0000023,0.281,0.544,107.932,73
+Angels Don't Cry,The Psychedelic Furs,Midnight To Midnight, 1987,306733,4,0.578,0.582,4,-11.293,1,0.0328,0.104,0.000271,0.217,0.586,120.577,19
+Heartbreak Beat,The Psychedelic Furs,Midnight To Midnight, 1987,309360,4,0.542,0.691,7,-11.094,1,0.0366,0.162,0.000133,0.085,0.678,122.719,37
+Heaven,The Psychedelic Furs,Mirror Moves, 1984,207266,4,0.546,0.615,0,-12.576,1,0.0334,0.179,0.00000335,0.0828,0.52,137.434,44
+Love My Way,The Psychedelic Furs,Forever Now, 1982,213973,4,0.637,0.85,0,-5.054,1,0.0351,0.00487,0.00018,0.152,0.52,126.106,65
+No Easy Street,The Psychedelic Furs,Forever Now, 1986,246640,4,0.529,0.677,7,-6.126,1,0.0313,0.00376,0.00813,0.31,0.674,116.078,22
+Pretty in Pink,The Psychedelic Furs,Talk Talk Talk, 1981,238106,4,0.386,0.916,2,-5.955,1,0.0741,0.105,0.00991,0.325,0.775,135.642,63
+The Ghost In You,The Psychedelic Furs,Mirror Moves, 1984,257760,4,0.589,0.529,10,-13.548,1,0.0287,0.0855,0.00000129,0.104,0.641,123.487,51
+The Ghost in You,The Psychedelic Furs,All Of This And Nothing, 1984,257000,4,0.585,0.476,10,-14.432,1,0.0285,0.0943,0.00000159,0.0904,0.74,123.511,45
+Until She Comes,The Psychedelic Furs,World Outside, 1991,230466,4,0.58,0.801,8,-10.306,1,0.0271,0.0317,0.000177,0.0982,0.968,106.681,28
+Androgynous,The Replacements,Let It Be (Expanded), 1984,190853,4,0.476,0.361,11,-9.312,1,0.0287,0.518,0,0.0817,0.389,106.484,43
+Can't Hardly Wait - 2008 Remaster,The Replacements,Pleased to Meet Me (Expanded),1987,188146,4,0.538,0.814,2,-7.06,1,0.0526,0.03,0.00000248,0.114,0.58,141.256,54
+I Will Dare,The Replacements,Let It Be (Expanded), 1984,197426,4,0.456,0.857,7,-5.854,1,0.0833,0.00157,0.0344,0.333,0.559,167.709,49
+Swingin Party - 2008 Remaster,The Replacements,Tim (Expanded),1985,233573,4,0.647,0.69,6,-8.657,0,0.0454,0.0224,0,0.147,0.682,117.514,53
+1979,The Smashing Pumpkins,(Rotten Apples) The Smashing Pumpkins Greatest Hits, 1995,263573,4,0.768,0.782,3,-10.231,1,0.033,0.021,0.683,0.0802,0.964,127.042,56
+Ava Adore,The Smashing Pumpkins,Adore (Super Deluxe), 1998,270893,4,0.604,0.844,8,-6.003,1,0.0597,0.000401,0.214,0.0484,0.791,160.318,59
+Bullet With Butterfly Wings - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),1995,258466,4,0.404,0.72,10,-9.18,0,0.0623,5.59E-05,0.836,0.0466,0.475,121.864,73
+Cherub Rock - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),1993,298253,4,0.382,0.867,9,-7.426,1,0.0399,5.91E-06,0.581,0.196,0.453,87.309,64
+Disarm,The Smashing Pumpkins,(Rotten Apples) The Smashing Pumpkins Greatest Hits, 1993,198466,4,0.515,0.426,4,-9.267,0,0.0278,0.0482,0.737,0.121,0.195,129.3,50
+Mayonaise - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),1993,348773,4,0.482,0.528,10,-10.426,1,0.0272,0.000107,0.543,0.0839,0.0882,146.043,63
+Soma - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),1993,398240,4,0.291,0.281,7,-11.798,1,0.0324,0.0241,0.83,0.115,0.0981,134.683,48
+Today,The Smashing Pumpkins,(Rotten Apples) The Smashing Pumpkins Greatest Hits, 1993,202133,4,0.476,0.855,8,-6.046,1,0.0265,2.53E-05,0.69,0.049,0.408,82.955,66
+"Tonight, Tonight - Remastered 2012",The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),1995,254626,4,0.277,0.67,6,-9.381,1,0.0376,6.28E-05,0.751,0.237,0.217,148.342,66
+Zero - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),1995,160173,4,0.438,0.728,8,-7.105,1,0.0458,3.49E-05,0.57,0.0509,0.701,128.04,70
+Bigmouth Strikes Again - 2011 Remaster,The Smiths,The Queen Is Dead,1986,193320,4,0.401,0.901,1,-5.011,0,0.041,0.0704,0,0.538,0.839,134.799,72
+Girlfriend in a Coma - 2011 Remaster,The Smiths,"Strangeways, Here We Come",1987,122760,4,0.68,0.626,7,-8.519,1,0.0255,0.126,0.0000013,0.0995,0.96,104.333,61
+Heaven Knows I'm Miserable Now - 2011 Remaster,The Smiths,Louder Than Bombs,1984,215760,4,0.609,0.759,6,-4.862,1,0.0276,0.028,0,0.183,0.774,114.045,68
+How Soon Is Now? - 2011 Remaster,The Smiths,Hatful of Hollow,1985,408173,4,0.398,0.93,11,-6.76,1,0.0615,0.000854,0.121,0.0874,0.725,190.818,71
+Panic - 2011 Remaster,The Smiths,Louder Than Bombs,1986,140506,4,0.53,0.861,7,-4.67,1,0.0372,0.0175,0.0177,0.0857,0.844,130.476,64
+"Please, Please, Please, Let Me Get What I Want - 2011 Remaster",The Smiths,Hatful of Hollow,1984,112706,3,0.241,0.468,2,-9.579,1,0.0272,0.534,0,0.161,0.451,91.581,77
+Shoplifters of the World Unite - 2011 Remaster,The Smiths,Louder Than Bombs,1987,178440,4,0.47,0.785,2,-5.119,1,0.0445,0.311,0.0641,0.265,0.601,168.975,50
+There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,The Queen Is Dead,1986,244586,4,0.523,0.769,4,-5.855,1,0.0269,0.04,0,0.136,0.876,136.162,81
+This Charming Man - 2011 Remaster,The Smiths,The Smiths,1983,162920,4,0.611,0.846,11,-5.9,1,0.0436,0.00509,0,0.0784,0.751,103.912,78
+I Wanna Be Adored - Remastered 2009,The Stone Roses,The Stone Roses,1989,292800,4,0.494,0.862,4,-9.158,0,0.0273,0.012,0.213,0.228,0.59,112.596,65
+She Bangs the Drums - Remastered 2009,The Stone Roses,The Stone Roses,1989,232333,4,0.339,0.976,9,-4.782,1,0.0909,0.00649,0.00672,0.123,0.672,144.723,61
+12:51,The Strokes,Room On Fire, 2003,153133,4,0.451,0.889,4,-3.838,1,0.0379,0.312,0.8,0.558,0.592,145.056,65
+Hard To Explain,The Strokes,Is This It, 2001,224333,4,0.408,0.666,7,-6.286,1,0.0578,0.000455,0.862,0.0889,0.666,82.523,58
+Juicebox,The Strokes,First Impressions Of Earth, 2005,194573,4,0.462,0.981,2,-2.371,0,0.127,0.00166,0.00894,0.0856,0.547,154.995,57
+Last Nite,The Strokes,Is This It, 2001,193373,4,0.624,0.899,0,-5.709,1,0.0296,0.0221,0.000137,0.0975,0.79,104.061,68
+New York City Cops,The Strokes,Hard To Explain/New York City Cops, 2001,211360,4,0.523,0.855,0,-7.679,1,0.0371,0.0749,0.0000334,0.327,0.486,107.967,36
+Reptilia,The Strokes,Room On Fire, 2003,219826,4,0.489,0.649,9,-5.11,1,0.0336,0.000603,0.713,0.101,0.77,158.009,77
+Someday,The Strokes,Is This It, 2001,183440,4,0.539,0.521,9,-7.46,1,0.0299,0.00425,0,0.367,0.679,106.035,72
+Take It Or Leave It,The Strokes,Is This It, 2001,196066,4,0.43,0.913,2,-6.203,0,0.0389,0.000959,0.369,0.137,0.481,154.06,46
+The End Has No End,The Strokes,Room On Fire, 2003,185560,4,0.531,0.66,1,-3.725,1,0.0335,0.000833,0.855,0.226,0.533,136.027,52
+Under Control,The Strokes,Room On Fire, 2003,187306,4,0.406,0.72,1,-4.647,1,0.0291,0.354,0.795,0.0541,0.641,91.336,55
+All Tomorrow's Parties,The Velvet Underground,The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition), 1967,359680,4,0.357,0.498,2,-13.712,1,0.0455,0.04,0.000469,0.0965,0.134,92.432,16
+Femme Fatale,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary, 1967,159000,4,0.55,0.143,0,-15.753,1,0.0332,0.912,0,0.118,0.149,103.921,62
+Heroin,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary, 1967,433573,4,0.2,0.777,1,-10.17,1,0.065,0.305,0.784,0.0981,0.229,146.289,53
+I'm Waiting For The Man,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary, 1967,279520,4,0.678,0.646,7,-9.765,1,0.0442,0.0324,0.869,0.152,0.826,125.844,55
+Pale Blue Eyes,The Velvet Underground,The Velvet Underground (45th Anniversary), 1969,339533,4,0.637,0.107,5,-18.759,1,0.0349,0.911,0.00146,0.103,0.296,82.879,64
+Rock & Roll - Full Length Version; 2015 Remaster,The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,1970,283000,4,0.494,0.735,5,-8.347,1,0.0345,0.00401,0.00000314,0.544,0.742,132.526,52
+Sweet Jane,The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition, 1969,197826,4,0.629,0.51,2,-10.625,1,0.0317,0.00691,0,0.379,0.964,105.173,47
+Venus In Furs,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary, 1967,312253,4,0.223,0.618,8,-9.922,0,0.0332,0.00137,0.611,0.079,0.566,144.786,53
+White Light/White Heat,The Velvet Underground,White Light / White Heat, 1968,167653,4,0.487,0.61,2,-10.777,1,0.0349,0.59,0.138,0.125,0.555,127.494,38
+Bitter Sweet Symphony - Remastered 2016,The Verve,Urban Hymns (Remastered 2016),1997,357266,4,0.356,0.917,9,-6.006,1,0.0479,0.0335,0,0.406,0.518,171.176,80
+Come On / Deep Freeze - Hidden Track,The Verve,Urban Hymns (Deluxe / Remastered 2016), 1997,914613,4,0.126,9.77E-05,4,-6.882,1,0.0888,0.00614,0.00378,0.622,0.0951,84.758,22
+History - Remastered 2016,The Verve,A Northern Soul (2016 Remastered / Deluxe),1997,326093,4,0.338,0.638,2,-7.989,1,0.0332,0.105,0,0.102,0.113,133.99,42
+Lucky Man,The Verve,Urban Hymns (Deluxe / Remastered 2016), 1997,293586,4,0.407,0.663,2,-7.591,1,0.0305,0.255,0.000166,0.0913,0.211,75.989,66
+On Your Own - Remastered 2016,The Verve,A Northern Soul (2016 Remastered / Deluxe),1997,213733,4,0.447,0.711,4,-7.291,0,0.0237,0.359,0.00000281,0.247,0.379,86.217,45
+Rather Be,The Verve,Forth, 1997,337240,4,0.438,0.69,9,-5.533,0,0.0261,0.0117,0.00000389,0.0802,0.539,81.733,19
+Sonnet,The Verve,Urban Hymns (Remastered 2016), 1997,261360,4,0.433,0.725,0,-7.296,1,0.0244,0.12,0.0000434,0.225,0.376,89.059,64
+Space And Time,The Verve,Urban Hymns (Deluxe / Remastered 2016), 1997,336640,4,0.21,0.723,2,-8.803,1,0.0366,0.0419,0.00457,0.138,0.326,165.495,42
+The Drugs Don't Work,The Verve,Urban Hymns (Deluxe / Remastered 2016), 1997,304880,4,0.442,0.52,0,-8.648,1,0.0261,0.184,0,0.154,0.177,77.437,61
+Blue Orchid,The White Stripes,Get Behind Me Satan, 2005,157560,4,0.481,0.645,10,-8.535,0,0.318,0.0863,0.0000062,0.332,0.612,151.307,65
+Dead Leaves and the Dirty Ground,The White Stripes,White Blood Cells, 2001,182168,4,0.305,0.628,9,-3.573,0,0.0348,0.46,0.0000366,0.0899,0.428,80.389,53
+Fell In Love With a Girl,The White Stripes,White Blood Cells, 2002,110093,4,0.356,0.982,4,-1.574,0,0.112,0.713,0.00145,0.941,0.299,95.754,70
+Hotel Yorba,The White Stripes,White Blood Cells, 2001,130332,4,0.392,0.773,7,-2.763,1,0.102,0.443,0,0.0941,0.75,194.929,52
+Icky Thump,The White Stripes,Icky Thump, 2007,254533,4,0.417,0.63,9,-7.24,1,0.0898,0.0209,0.0134,0.0543,0.341,94.214,64
+Little Room,The White Stripes,White Blood Cells, 2003,50373,4,0.456,0.738,2,-3.777,1,0.0434,0.00925,0,0.0692,0.705,173.406,43
+My Doorbell,The White Stripes,Get Behind Me Satan, 2005,241866,4,0.614,0.663,8,-9.965,1,0.0352,0.29,0.00682,0.0986,0.823,97.083,52
+Seven Nation Army,The White Stripes,Elephant, 2003,232106,4,0.743,0.446,4,-7.807,0,0.0683,0.0039,0.118,0.337,0.278,123.596,84
+The Hardest Button to Button,The White Stripes,Elephant, 2003,212888,4,0.694,0.515,4,-8.663,0,0.0736,0.00666,0.622,0.0884,0.566,128.246,61
+We're Going to Be Friends,The White Stripes,White Blood Cells, 2002,140178,4,0.534,0.441,7,-5.752,1,0.0303,0.661,0,0.0934,0.439,97.009,67
+A Rose For Emily,The Zombies,Odessey and Oracle, 1968,139906,4,0.602,0.292,9,-11.908,1,0.0317,0.92,0.0000114,0.11,0.7,141.303,39
+Beechwood Park - Mono Version,The Zombies,Odessey and Oracle, 1968,164666,4,0.489,0.384,3,-12.558,1,0.0356,0.892,0.000897,0.15,0.308,73.493,39
+Care Of Cell 44,The Zombies,Odessey and Oracle, 1968,237760,4,0.395,0.482,7,-10.031,1,0.0285,0.32,0.00717,0.0917,0.334,130.21,43
+Hung Up On A Dream - Mono Version,The Zombies,Odessey and Oracle, 1968,182600,4,0.329,0.582,0,-8.031,1,0.0271,0.297,0.38,0.0815,0.151,100.32,31
+Imagine The Swan,The Zombies,"The Original Studio Recordings, Vol. 2", 1968,192160,4,0.473,0.612,5,-10.847,1,0.0292,0.437,0,0.122,0.389,101.964,12
+She's Not There,The Zombies,Begin Here, 1964,146360,4,0.533,0.729,4,-6.976,0,0.046,0.593,0,0.0981,0.905,132.286,64
+Tell Her No,The Zombies,"The Original Studio Recordings, Vol. 1", 1964,127866,4,0.708,0.522,4,-8.076,1,0.0305,0.562,0.000186,0.0811,0.965,135.294,48
+The Way I Feel Inside,The Zombies,Begin Here, 1964,111533,3,0.656,0.0942,11,-16.191,1,0.0619,0.941,0,0.0751,0.577,82.61,51
+This Will Be Our Year,The Zombies,Odessey and Oracle, 1968,128306,4,0.608,0.335,10,-10.867,1,0.0304,0.658,0,0.16,0.49,97.439,53
+Time Of The Season,The Zombies,Odessey & Oracle - 40th Anniversary Concert (Live), 1968,282893,4,0.368,0.922,4,-5.042,0,0.093,0.00602,0.0118,0.917,0.675,121.217,39
+Blinded (When I See You),Third Eye Blind,Out of the Vein, 1997,261906,4,0.525,0.944,5,-3.327,1,0.0403,0.00247,0.0001,0.248,0.593,108.8,48
+Crystal Baller,Third Eye Blind,Out of the Vein, 2003,255466,4,0.389,0.752,0,-4.48,1,0.0794,0.0127,0.00000835,0.184,0.436,193.662,49
+Deep Inside of You - 2008 Remaster,Third Eye Blind,Blue,1999,250533,4,0.502,0.591,7,-4.522,1,0.0242,0.00585,0.000019,0.0725,0.169,81.782,49
+Graduate,Third Eye Blind,Third Eye Blind, 1997,187666,4,0.498,0.913,0,-4.805,0,0.0446,0.000904,0,0.0902,0.45,89.359,58
+How's It Going to Be,Third Eye Blind,Third Eye Blind, 1997,253413,4,0.561,0.593,5,-9.362,1,0.0264,0.00327,0.00144,0.0967,0.574,80.282,67
+Jumper - 1998 Edit,Third Eye Blind,Third Eye Blind,1997,272973,4,0.599,0.543,0,-9.226,1,0.0302,0.0129,0.00204,0.291,0.624,91.105,66
+Losing a Whole Year,Third Eye Blind,Third Eye Blind, 1997,200640,4,0.421,0.848,4,-6.3,1,0.0347,3.37E-05,0.000159,0.0775,0.658,175.665,53
+Motorcycle Drive By,Third Eye Blind,Third Eye Blind, 1997,262626,4,0.424,0.577,0,-9.292,1,0.0263,0.0127,0.000859,0.0848,0.615,122.473,52
+Never Let You Go - 2008 Remaster,Third Eye Blind,Blue,1999,237240,4,0.728,0.94,4,-5.034,1,0.0368,0.0814,0.000162,0.109,0.967,113.76,64
+Semi-Charmed Life,Third Eye Blind,Third Eye Blind, 1997,268360,4,0.64,0.864,7,-6.576,1,0.0314,0.00832,0,0.123,0.701,102.026,76
+Goin' Out West - 2023 Remaster,Tom Waits,Bone Machine (2023 Remaster),1992,199360,4,0.721,0.584,8,-13.753,1,0.0986,0.75,0.402,0.209,0.54,129.464,47
+Long Way Home,Tom Waits,"Orphans: Brawlers, Bawlers & Bastards (Remastered)", 2002,190200,4,0.655,0.221,10,-16.322,1,0.0312,0.598,0.00151,0.111,0.506,141.091,42
+Midnight Lullaby,Tom Waits,Closing Time (Remastered), 2004,205786,4,0.414,0.33,8,-10.836,1,0.0343,0.942,0.000467,0.198,0.235,102.484,35
+Underground - 2023 Remaster,Tom Waits,Swordfishtrombones (2023 Remaster),1992,120666,4,0.761,0.296,8,-19.068,1,0.0713,0.116,0.000616,0.0958,0.783,157.043,46
+Ænema,TOOL,Ænima, 1996,399266,3,0.335,0.849,0,-6.927,1,0.321,0.00193,0.254,0.0928,0.256,181.716,61
+Forty Six & 2,TOOL,Ænima, 1996,363066,4,0.375,0.682,0,-6.898,0,0.0364,0.00152,0.598,0.0897,0.396,159.23,68
+Jambi,TOOL,"10,000 Days", 2006,448613,3,0.475,0.831,9,-7.419,0,0.0505,0.000145,0.854,0.346,0.521,110.42,62
+Lateralus,TOOL,Lateralus, 2001,562706,3,0.387,0.677,0,-8.399,1,0.084,0.00108,0.871,0.101,0.371,172.812,61
+Parabola,TOOL,Lateralus, 2001,363680,4,0.314,0.929,9,-6.238,1,0.105,2.03E-05,0.516,0.139,0.285,100.935,63
+Schism,TOOL,Lateralus, 2001,403533,3,0.567,0.714,9,-8.512,0,0.0302,0.0012,0.417,0.186,0.191,107.441,69
+Sober,TOOL,Undertow, 1993,306853,4,0.385,0.673,2,-8.182,1,0.0329,0.000183,0.149,0.0721,0.187,149.271,68
+Stinkfist,TOOL,Ænima, 1996,312120,4,0.286,0.728,0,-6.608,1,0.0616,0.000174,0.836,0.133,0.467,171.441,67
+The Pot,TOOL,"10,000 Days", 2006,381946,4,0.469,0.79,7,-6.889,1,0.0391,0.000148,0.372,0.282,0.466,107.45,69
+Vicarious,TOOL,"10,000 Days", 2006,426680,5,0.506,0.877,0,-5.73,1,0.032,5.16E-05,0.776,0.0712,0.302,114.589,63
+Beautiful Day,U2,All That You Can't Leave Behind, 2000,246400,4,0.539,0.926,2,-6.495,1,0.0499,0.014,0.00136,0.36,0.454,136.279,65
+Elevation,U2,All That You Can't Leave Behind, 2000,226133,4,0.581,0.804,9,-8.093,1,0.0361,0.00105,0.000289,0.05,0.418,110.022,45
+I Still Haven't Found What I'm Looking For,U2,The Joshua Tree (Super Deluxe), 1987,277476,4,0.564,0.774,1,-9.424,1,0.0368,0.0135,0.00191,0.0861,0.657,100.894,79
+Mysterious Ways,U2,Achtung Baby (Deluxe Edition), 1991,243586,4,0.674,0.659,8,-8.049,1,0.0277,0.00156,0.00765,0.108,0.697,99.768,61
+New Year's Day,U2,The Best Of 1980 - 1990, 1983,257040,4,0.518,0.803,8,-6.337,0,0.0318,0.00151,0.0246,0.612,0.633,133.462,63
+One,U2,Achtung Baby (Deluxe Edition), 1991,276186,4,0.392,0.534,0,-8.793,1,0.0369,0.245,0.00104,0.155,0.325,181.305,75
+Pride (In The Name Of Love),U2,The Best Of 1980 - 1990, 1984,228466,4,0.454,0.879,4,-5.44,1,0.0305,0.000861,0.00281,0.794,0.727,105.859,52
+Sunday Bloody Sunday,U2,U218 Singles, 1983,279960,4,0.541,0.984,6,-3.174,1,0.058,0.416,0.000719,0.044,0.779,100.456,43
+Where The Streets Have No Name,U2,The Best Of 1980 - 1990, 1987,275040,4,0.5,0.851,2,-6.027,1,0.038,0.0128,0.00698,0.136,0.358,125.599,53
+With Or Without You,U2,U218 Singles, 1987,296226,4,0.546,0.539,2,-7.342,1,0.0267,0.000135,0.235,0.119,0.122,109.92,54
+Add It Up,Violent Femmes,Violent Femmes, 1983,284333,4,0.41,0.763,4,-7.904,1,0.337,0.273,0.0000129,0.0553,0.649,171.956,55
+American Music,Violent Femmes,Why Do Birds Sing?, 1984,230573,4,0.541,0.704,0,-7.436,1,0.0453,0.086,0.0000332,0.114,0.794,133.914,48
+Blister In The Sun,Violent Femmes,Violent Femmes, 1983,145706,4,0.726,0.537,0,-8.896,1,0.114,0.316,0,0.0707,0.882,96.889,71
+Gone Daddy Gone,Violent Femmes,Violent Femmes, 1984,186066,4,0.568,0.948,2,-4.265,0,0.078,0.448,0.00059,0.19,0.84,79.329,54
+Good Feeling,Violent Femmes,Violent Femmes, 1983,236840,4,0.369,0.319,2,-12.088,1,0.0288,0.752,0.000837,0.154,0.476,160.359,45
+Hallowed Ground,Violent Femmes,Hallowed Ground, 1984,255466,4,0.473,0.548,9,-12.614,1,0.0314,0.33,0.0168,0.293,0.794,110.876,28
+Kiss Off,Violent Femmes,Violent Femmes, 1983,176720,4,0.661,0.662,4,-8.88,0,0.0931,0.255,0,0.131,0.825,87.119,56
+Old Mother Reagan,Violent Femmes,The Blind Leading The Naked, 1984,31893,4,0.327,0.843,2,-7.443,1,0.133,0.22,0,0.265,0.944,180.027,23
+Please Do Not Go,Violent Femmes,Violent Femmes, 1984,255400,4,0.651,0.449,0,-8.412,1,0.0399,0.234,0,0.0963,0.832,85.433,47
+Prove My Love,Violent Femmes,Violent Femmes, 1984,158640,4,0.651,0.872,9,-5.855,1,0.103,0.269,0.000127,0.138,0.8,90.84,46
+Beverly Hills,Weezer,Make Believe, 2005,196093,4,0.693,0.823,5,-3.761,1,0.0726,0.0932,0,0.328,0.741,87.904,71
+Buddy Holly,Weezer,Weezer, 1994,159226,4,0.556,0.92,8,-4.606,1,0.0367,0.00271,0.00021,0.117,0.771,121.138,76
+El Scorcho,Weezer,Pinkerton, 1996,243466,4,0.479,0.707,1,-4.968,1,0.0659,0.0471,0,0.0932,0.661,148.092,54
+Hash Pipe,Weezer,Weezer, 2001,186533,4,0.578,0.883,7,-6.354,1,0.0439,0.000123,0.459,0.284,0.627,125.603,66
+Island In The Sun,Weezer,Weezer, 2001,200306,4,0.654,0.81,4,-6.26,0,0.0288,0.00719,0.00251,0.165,0.661,114.622,80
+Pork And Beans,Weezer,Weezer, 2008,189400,4,0.599,0.624,6,-6.622,1,0.0339,0.0109,0.00000806,0.158,0.706,119.838,58
+Say It Ain't So,Weezer,Weezer, 1994,258826,4,0.634,0.551,3,-7.136,1,0.0352,0.00737,0.0000182,0.07,0.453,151.779,76
+The Greatest Man That Ever Lived (Variations On A Shaker Hymn),Weezer,Weezer, 2008,352200,4,0.321,0.682,8,-8.347,1,0.0609,0.0541,0,0.461,0.356,151.692,36
+Undone - The Sweater Song,Weezer,Weezer, 1994,305533,4,0.457,0.618,6,-6.682,1,0.0296,0.00114,0.00257,0.0679,0.579,80.184,69
+Ballad Of Peter Pumpkinhead - 2001 Remaster,XTC,Nonsuch,1989,302000,4,0.574,0.942,2,-6.146,1,0.0687,0.0146,0,0.326,0.598,122.766,39
+Dear God - Remastered 2001,XTC,Skylarking,1986,219506,4,0.577,0.464,7,-7.943,1,0.024,0.0979,0.0000013,0.154,0.346,90.557,50
+Making Plans For Nigel,XTC,Drums And Wires, 1979,253800,4,0.632,0.893,7,-6.04,1,0.0455,0.0143,0.00000524,0.0741,0.773,149.97,56
+Senses Working Overtime - Remastered 2001,XTC,English Settlement,1982,290667,4,0.68,0.665,0,-11.886,1,0.0355,0.0289,0.0289,0.659,0.862,129.899,48
