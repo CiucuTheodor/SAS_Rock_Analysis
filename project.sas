@@ -1,8 +1,3 @@
-/******************************************************************
- * SAS Project: Classic Alternative Rock Data Analysis
- * Refactored into 10 Distinct Exercises
- ******************************************************************/
-
 * Exercise 1. Creating a SAS data set from external files;
 PROC IMPORT DATAFILE='/home/u64491128/ClassicAltRock.csv' 
             OUT=work.ex1_data 
@@ -12,7 +7,7 @@ PROC IMPORT DATAFILE='/home/u64491128/ClassicAltRock.csv'
 RUN;
 
 * Exercise 2. Using SAS functions;
-* Using SCAN to get the first word of the Track and PROPCASE to format Album;
+
 DATA work.ex2_functions;
     SET work.ex1_data;
     First_Word = SCAN(Track, 1, ' ');
@@ -20,7 +15,7 @@ DATA work.ex2_functions;
 RUN;
 
 * Exercise 3. Iterative and conditional processing of data;
-* Categorizing Energy into Low, Moderate, and High;
+
 DATA work.ex3_conditional;
     SET work.ex2_functions;
     length Energy_Level $ 10;
@@ -31,7 +26,7 @@ DATA work.ex3_conditional;
 RUN;
 
 * Exercise 4. Using arrays;
-* Multiplying specific audio metrics by 100 using a DO loop and an ARRAY;
+
 DATA work.ex4_arrays;
     SET work.ex3_conditional;
     ARRAY audio_metrics[*] Acousticness Instrumentalness Liveness;
@@ -42,14 +37,14 @@ DATA work.ex4_arrays;
 RUN;
 
 * Exercise 5. Creating data subsets;
-* Isolating only the tracks released in the 1980s;
+
 DATA work.ex5_subset80s;
     SET work.ex4_arrays;
     where Year >= 1980 and Year <= 1989;
 RUN;
 
 * Exercise 6. Creating and using user-defined formats;
-* Creating a format mapping for the Time_Signature variable;
+
 TITLE "Format Catalog Details for timefmt";
 PROC FORMAT FMTLIB;
     value timefmt
@@ -60,7 +55,7 @@ RUN;
 TITLE;
 
 * Exercise 7. Combining data sets with specific SAS and SQL procedures;
-* Calculating average acousticness per year and left joining it to the main dataset;
+
 PROC SQL;
     Create table work.avg_acoustic as
     Select Year, mean(Acousticness) as Avg_Acousticness_Year
@@ -77,7 +72,7 @@ PROC SQL;
 QUIT;
 
 * Exercise 8. Using statistical procedures;
-* Analysis of Variance (ANOVA) to see if Loudness varies significantly across Energy Levels;
+
 TITLE "ANOVA: Loudness across Energy Levels";
 PROC ANOVA DATA=work.ex4_arrays;
     CLASS Energy_Level;
@@ -86,7 +81,7 @@ RUN;
 TITLE;
 
 * Exercise 9. Using report procedures;
-* Printing the 1980s subset with our custom Time Signature format;
+
 TITLE "Report of 1980s Tracks with Time Signature Formats";
 PROC PRINT DATA=work.ex5_subset80s(OBS=15) label noobs;
     var Track Artist Year Energy_Level Time_Signature;
@@ -97,7 +92,7 @@ RUN;
 TITLE;
 
 * Exercise 10. Generating graphs;
-* Creating a 3D Pie Chart of the Energy Levels;
+
 GOPTIONS reset=all;
 TITLE "Distribution of Tracks by Energy Level";
 PROC GCHART data=work.ex4_arrays;
